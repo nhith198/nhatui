@@ -1,0 +1,93 @@
+# CI/CD for Nhà Trọ: build + test on every PR/push, deploy to Dev automatically from main, Prod after approval.
+trigger:
+  branches: { include: [main] }
+  paths: { exclude: [README.md] }
+pr:
+  branches: { include: [main] }
+
+pool:
+  vmImage: ubuntu-latest
+
+variables:
+  buildConfiguration: Release
+
+stages:
+- stage: Build
+  jobs:
+  - job: Backend
+    displayName: Backend (.NET 10)
+    steps:
+    - task: UseDotNet@2
+      displayName: Install .NET 10 SDK
+      inputs: { packageType: sdk, version: 10.x }
+    - script: dotnet restore backend/NhaTro.slnx
+      displayName: Restore
+    - script: dotnet build backend/NhaTro.slnx -c $(buildConfiguration) --no-restore
+      displayName: Build
+    - script: >
+        dotnet test backend/NhaTro.slnx -c $(buildConfiguration) --no-build
+        --logger trx --collect:"XPlat Code Coverage" --results-directory $(Agent.TempDirectory)/tests
+      displayName: Unit tests
+    - task: PublishTestResults@2
+      condition: succeededOrFailed()
+      inputs: { testResultsFormat: VSTest, testResultsFiles: '**/*.trx', searchFolder: $(Agent.TempDirectory)/tests }
+    - task: PublishCodeCoverageResults@2
+      condition: succeededOrFailed()
+      inputs: { summaryFileLocation: '$(Agent.TempDirectory)/tests/**/coverage.cobertura.xml' }
+    - script: dotnet publish backend/src/NhaTro.Api -c $(buildConfiguration) --no-build -o $(Build.ArtifactStagingDirectory)/api
+      displayName: Publish API
+    - bash: |
+        # Build a self-contained migrations bundle once the first migration has been committed.
+        if [ -d backend/src/NhaTro.Infrastructure/Migrations ]; then
+          cd backend
+          dotnet tool restore
+          dotnet ef migrations bundle --self-contained -r linux-x64 --force \
+            --project src/NhaTro.Infrastructure --startup-project src/NhaTro.Api \
+            -o $(Build.ArtifactStagingDirectory)/db/efbundle
+        else
+          echo "No EF migrations found - skipping database bundle."
+          mkdir -p $(Build.ArtifactStagingDirectory)/db
+        fi
+      displayName: Build EF migrations bundle
+      env:
+        ConnectionStrings__Default: Server=Server=10.242.10.67;Persist Security Info=True;Database=HouseRental;User Id=sa;Password=harveynash@123;TrustServerCertificate=True;   # design-time only
+    - publish: $(Build.ArtifactStagingDirectory)/api
+      artifact: api
+    - publish: $(Build.ArtifactStagingDirectory)/db
+      artifact: db
+
+  - job: Frontend
+    displayName: Frontend (Angular)
+    steps:
+    - task: NodeTool@0
+      inputs: { versionSpec: 24.x }
+    - script: npm ci
+      workingDirectory: frontend
+      displayName: Install dependencies
+    - script: npm run build -- --configuration production
+      workingDirectory: frontend
+      displayName: Build
+    - publish: frontend/dist/nhatro-web/browser
+      artifact: web
+
+- template: pipelines/templates/deploy.yml
+  parameters:
+    stageName: Dev
+    dependsOn: Build
+    condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/main'))
+    environment: nhatro-dev            # Pipelines > Environments
+    variableGroup: nhatro-dev          # Library: SqlConnectionString (secret), apiUrl
+    serviceConnection: sc-nhatro-dev   # Azure Resource Manager service connection
+    webAppName: app-nhatro-api-dev
+    storageAccount: stnhatrowebdev
+
+- template: pipelines/templates/deploy.yml
+  parameters:
+    stageName: Prod
+    dependsOn: Dev
+    condition: succeeded()
+    environment: nhatro-prod           # add an Approvals check on this environment
+    variableGroup: nhatro-prod
+    serviceConnection: sc-nhatro-prod
+    webAppName: app-nhatro-api-prod
+    storageAccount: stnhatrowebprod

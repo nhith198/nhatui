@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NhaTro.Domain/NhaTro.Domain.csproj" />
+    <Project Path="src/NhaTro.Application/NhaTro.Application.csproj" />
+    <Project Path="src/NhaTro.Infrastructure/NhaTro.Infrastructure.csproj" />
+    <Project Path="src/NhaTro.Api/NhaTro.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NhaTro.Domain.Tests/NhaTro.Domain.Tests.csproj" />
+    <Project Path="tests/NhaTro.Application.Tests/NhaTro.Application.Tests.csproj" />
+    <Project Path="tests/NhaTro.ArchitectureTests/NhaTro.ArchitectureTests.csproj" />
+    <Project Path="tests/NhaTro.Infrastructure.Tests/NhaTro.Infrastructure.Tests.csproj" />
+  </Folder>
+</Solution>

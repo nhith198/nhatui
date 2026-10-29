@@ -1,0 +1,37 @@
+@if (auth.loggedIn()) {
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" routerLink="/"><span class="brand-symbol"><app-icon name="building" /></span><h1>Quản lý nhà trọ</h1></a>
+      <nav aria-label="Menu chính">
+        @if (auth.canAccessPage('dashboard')) { <a routerLink="/" routerLinkActive="on" [routerLinkActiveOptions]="{ exact: true }"><app-icon name="dashboard" />Tổng quan</a> }
+        @if (auth.canAccessPage('rooms')) { <a routerLink="/rooms" routerLinkActive="on"><app-icon name="room" />Phòng</a> }
+        @if (auth.canAccessPage('tenancies')) { <a routerLink="/tenancies" routerLinkActive="on"><app-icon name="users" />Khách thuê & hợp đồng</a> }
+        @if (auth.canAccessPage('invoices')) { <a routerLink="/invoices" routerLinkActive="on"><app-icon name="invoice" />Hóa đơn</a> }
+        @if (auth.canAccessPage('financials')) { <a routerLink="/financials" routerLinkActive="on"><app-icon name="finance" />Tài chính</a> }
+        @if (auth.canAccessPage('complaints')) { <a routerLink="/complaints" routerLinkActive="on"><app-icon name="complaint" />Khiếu nại</a> }
+        @if (auth.canAccessPage('repairs')) { <a routerLink="/repairs" routerLinkActive="on"><app-icon name="wrench" />Yêu cầu sửa chữa</a> }
+        @if (!auth.isEmployee()) { <a routerLink="/employees" routerLinkActive="on"><app-icon name="staff" />Nhân viên</a> }
+        @if (auth.canAccessPage('properties')) { <a routerLink="/properties" routerLinkActive="on"><app-icon name="building" />Nhà</a> }
+      </nav>
+    </aside>
+    <div class="main">
+      <header class="topbar">
+        <div class="ctl">
+          <select aria-label="Chọn nhà" [ngModel]="api.pid()" (ngModelChange)="api.pid.set($event)">
+            <option value="">Tất cả nhà</option>
+            @for (p of api.properties(); track p.id) { <option [value]="p.id">{{ p.name }}</option> }
+          </select>
+          <input type="month" aria-label="Chọn tháng" [ngModel]="api.month()" (ngModelChange)="$event && api.month.set($event)">
+        </div>
+        <div class="ctl">
+          <a class="account-name" routerLink="/profile" title="Quản lý hồ sơ">{{ auth.name() }}<small>{{ auth.isEmployee() ? 'Nhân viên' : 'Chủ nhà' }}</small></a>
+          <button class="icon-button" title="Đăng xuất" aria-label="Đăng xuất" (click)="auth.logout()"><app-icon name="logout" /></button>
+        </div>
+      </header>
+      <main class="content"><router-outlet /></main>
+    </div>
+  </div>
+} @else {
+  <div class="wrap"><router-outlet /></div>
+}
+@if (api.toast()) { <div class="toast" role="status">{{ api.toast() }}</div> }

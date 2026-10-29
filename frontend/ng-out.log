@@ -1,0 +1,1836 @@
+❯ Building...
+✔ Building...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-HXO33WWZ.js   | -             |   8.79 kB | 
+chunk-H4QWG6KF.js   | -             |   4.32 kB | 
+chunk-IZQIXPXO.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.26 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-76BSH7NC.js   | rooms         |  87.79 kB | 
+chunk-3BDVPEXP.js   | tenancies     |  52.78 kB | 
+chunk-C2NLQHNL.js   | complaints    |  37.22 kB | 
+chunk-ERAYVZZB.js   | properties    |  31.40 kB | 
+chunk-GKPPCLQS.js   | employees     |  29.65 kB | 
+chunk-AEHYUFEQ.js   | financials    |  29.01 kB | 
+chunk-RSV4YFOG.js   | -             |  27.56 kB | 
+chunk-DBPNJHW6.js   | profile       |  15.68 kB | 
+chunk-FRFZCYNO.js   | login         |   9.60 kB | 
+chunk-6KBNKB53.js   | dashboard     |   9.43 kB | 
+chunk-CKW6PF4H.js   | -             |   4.71 kB | 
+chunk-HXKTQZE6.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [3.402 seconds] - 2026-10-22T18:26:46.740Z
+
+Watch mode enabled. Watching for file changes...
+NOTE: Raw file sizes do not reflect development server per-request transformations.
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m4200[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      | Raw size
+main.js             | main       | 16.68 kB | 
+chunk-5NNT7BNX.js   | -          |  8.79 kB | 
+chunk-7DKN6FJJ.js   | -          |  4.32 kB | 
+chunk-Q56OT66E.js   | -          |  1.93 kB | 
+
+Lazy chunk files    | Names      | Raw size
+chunk-FEWILS6K.js   | rooms      | 87.79 kB | 
+chunk-YICVOXAI.js   | tenancies  | 52.78 kB | 
+chunk-AOCMUBOB.js   | complaints | 37.22 kB | 
+chunk-X7IE5F3P.js   | properties | 31.40 kB | 
+chunk-S6NRNONI.js   | employees  | 29.65 kB | 
+chunk-L6QQJO2W.js   | financials | 29.01 kB | 
+chunk-BIB4DKN2.js   | -          | 27.72 kB | 
+chunk-IR4ZEZ4D.js   | profile    | 15.68 kB | 
+chunk-OFFVNBQG.js   | login      |  9.60 kB | 
+chunk-E5YD3SFO.js   | dashboard  |  9.43 kB | 
+chunk-GY72HU6Q.js   | invoices   |  3.49 kB | 
+
+Application bundle generation complete. [5.474 seconds] - 2026-10-23T04:38:49.168Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-5NNT7BNX.js   | -             |   8.79 kB | 
+chunk-7DKN6FJJ.js   | -             |   4.32 kB | 
+chunk-Q56OT66E.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.26 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-FEWILS6K.js   | rooms         |  87.79 kB | 
+chunk-YICVOXAI.js   | tenancies     |  52.78 kB | 
+chunk-AOCMUBOB.js   | complaints    |  37.22 kB | 
+chunk-X7IE5F3P.js   | properties    |  31.40 kB | 
+chunk-S6NRNONI.js   | employees     |  29.65 kB | 
+chunk-L6QQJO2W.js   | financials    |  29.01 kB | 
+chunk-BIB4DKN2.js   | -             |  27.72 kB | 
+chunk-IR4ZEZ4D.js   | profile       |  15.68 kB | 
+chunk-OFFVNBQG.js   | login         |   9.60 kB | 
+chunk-E5YD3SFO.js   | dashboard     |   9.43 kB | 
+chunk-CKW6PF4H.js   | -             |   4.71 kB | 
+chunk-GY72HU6Q.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.525 seconds] - 2026-10-23T04:38:49.709Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names     | Raw size
+main.js             | main      | 16.68 kB | 
+
+Lazy chunk files    | Names     | Raw size
+chunk-IDJFZXOZ.js   | -         | 27.77 kB | 
+chunk-4DLWEVT6.js   | dashboard |  9.43 kB | 
+chunk-XZ22NYPS.js   | invoices  |  3.49 kB | 
+
+Application bundle generation complete. [1.028 seconds] - 2026-10-23T05:18:06.390Z
+
+Component update sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-5NNT7BNX.js   | -             |   8.79 kB | 
+chunk-7DKN6FJJ.js   | -             |   4.32 kB | 
+chunk-Q56OT66E.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.26 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-FEWILS6K.js   | rooms         |  87.79 kB | 
+chunk-YICVOXAI.js   | tenancies     |  52.78 kB | 
+chunk-AOCMUBOB.js   | complaints    |  37.22 kB | 
+chunk-X7IE5F3P.js   | properties    |  31.40 kB | 
+chunk-S6NRNONI.js   | employees     |  29.65 kB | 
+chunk-L6QQJO2W.js   | financials    |  29.01 kB | 
+chunk-IDJFZXOZ.js   | -             |  27.77 kB | 
+chunk-IR4ZEZ4D.js   | profile       |  15.68 kB | 
+chunk-OFFVNBQG.js   | login         |   9.60 kB | 
+chunk-4DLWEVT6.js   | dashboard     |   9.43 kB | 
+chunk-CKW6PF4H.js   | -             |   4.71 kB | 
+chunk-XZ22NYPS.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.585 seconds] - 2026-10-23T05:18:09.750Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names     | Raw size
+main.js             | main      | 16.68 kB | 
+
+Lazy chunk files    | Names     | Raw size
+chunk-BIB4DKN2.js   | -         | 27.72 kB | 
+chunk-E5YD3SFO.js   | dashboard |  9.43 kB | 
+chunk-GY72HU6Q.js   | invoices  |  3.49 kB | 
+
+Application bundle generation complete. [0.768 seconds] - 2026-10-23T05:18:27.294Z
+
+Component update sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names | Raw size
+main.js             | main  | 16.68 kB | 
+
+Lazy chunk files    | Names | Raw size
+chunk-KXD5DDIY.js   | rooms | 88.08 kB | 
+
+Application bundle generation complete. [1.620 seconds] - 2026-10-23T05:18:41.865Z
+
+Component update sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-5NNT7BNX.js   | -             |   8.79 kB | 
+chunk-7DKN6FJJ.js   | -             |   4.32 kB | 
+chunk-Q56OT66E.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.26 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-KXD5DDIY.js   | rooms         |  88.08 kB | 
+chunk-YICVOXAI.js   | tenancies     |  52.78 kB | 
+chunk-AOCMUBOB.js   | complaints    |  37.22 kB | 
+chunk-X7IE5F3P.js   | properties    |  31.40 kB | 
+chunk-S6NRNONI.js   | employees     |  29.65 kB | 
+chunk-L6QQJO2W.js   | financials    |  29.01 kB | 
+chunk-BIB4DKN2.js   | -             |  27.72 kB | 
+chunk-IR4ZEZ4D.js   | profile       |  15.68 kB | 
+chunk-OFFVNBQG.js   | login         |   9.60 kB | 
+chunk-E5YD3SFO.js   | dashboard     |   9.43 kB | 
+chunk-CKW6PF4H.js   | -             |   4.71 kB | 
+chunk-GY72HU6Q.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [1.216 seconds] - 2026-10-23T05:18:47.894Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names | Raw size
+main.js             | main  | 16.68 kB | 
+
+Lazy chunk files    | Names | Raw size
+chunk-VUZXYTQL.js   | rooms | 88.98 kB | 
+
+Application bundle generation complete. [1.509 seconds] - 2026-10-23T05:21:03.766Z
+
+Component update sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-5NNT7BNX.js   | -             |   8.79 kB | 
+chunk-7DKN6FJJ.js   | -             |   4.32 kB | 
+chunk-Q56OT66E.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.26 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-VUZXYTQL.js   | rooms         |  88.98 kB | 
+chunk-YICVOXAI.js   | tenancies     |  52.78 kB | 
+chunk-AOCMUBOB.js   | complaints    |  37.22 kB | 
+chunk-X7IE5F3P.js   | properties    |  31.40 kB | 
+chunk-S6NRNONI.js   | employees     |  29.65 kB | 
+chunk-L6QQJO2W.js   | financials    |  29.01 kB | 
+chunk-BIB4DKN2.js   | -             |  27.72 kB | 
+chunk-IR4ZEZ4D.js   | profile       |  15.68 kB | 
+chunk-OFFVNBQG.js   | login         |   9.60 kB | 
+chunk-E5YD3SFO.js   | dashboard     |   9.43 kB | 
+chunk-CKW6PF4H.js   | -             |   4.71 kB | 
+chunk-GY72HU6Q.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [1.310 seconds] - 2026-10-23T05:21:12.052Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      | Raw size
+main.js             | main       | 16.68 kB | 
+chunk-S7472HZ7.js   | -          |  8.99 kB | 
+chunk-DZTQ76AV.js   | -          |  4.32 kB | 
+chunk-ZZWKD4GX.js   | -          |  1.93 kB | 
+
+Lazy chunk files    | Names      | Raw size
+chunk-DJOQ5HV7.js   | rooms      | 88.98 kB | 
+chunk-TMODMF6U.js   | tenancies  | 52.78 kB | 
+chunk-YCCH2YRA.js   | complaints | 37.22 kB | 
+chunk-BMQ4DQYH.js   | properties | 31.40 kB | 
+chunk-I5UEZELL.js   | employees  | 29.65 kB | 
+chunk-4TOZ4HPY.js   | financials | 29.01 kB | 
+chunk-XORTFL4Z.js   | -          | 27.72 kB | 
+chunk-GKAV6WTX.js   | profile    | 15.68 kB | 
+chunk-3GPPGWA3.js   | login      |  9.60 kB | 
+chunk-NUFJJ6F2.js   | dashboard  |  9.43 kB | 
+chunk-5U7R5DCE.js   | invoices   |  3.49 kB | 
+
+Application bundle generation complete. [0.889 seconds] - 2026-10-23T05:31:01.867Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names | Raw size
+main.js             | main  | 16.68 kB | 
+
+Lazy chunk files    | Names | Raw size
+chunk-ZDLDUHWE.js   | rooms | 99.39 kB | 
+
+Application bundle generation complete. [1.128 seconds] - 2026-10-23T05:31:03.000Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-S7472HZ7.js   | -             |   8.99 kB | 
+chunk-DZTQ76AV.js   | -             |   4.32 kB | 
+chunk-ZZWKD4GX.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.47 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-ZDLDUHWE.js   | rooms         |  99.39 kB | 
+chunk-TMODMF6U.js   | tenancies     |  52.78 kB | 
+chunk-YCCH2YRA.js   | complaints    |  37.22 kB | 
+chunk-BMQ4DQYH.js   | properties    |  31.40 kB | 
+chunk-I5UEZELL.js   | employees     |  29.65 kB | 
+chunk-4TOZ4HPY.js   | financials    |  29.01 kB | 
+chunk-XORTFL4Z.js   | -             |  27.72 kB | 
+chunk-GKAV6WTX.js   | profile       |  15.68 kB | 
+chunk-3GPPGWA3.js   | login         |   9.60 kB | 
+chunk-NUFJJ6F2.js   | dashboard     |   9.43 kB | 
+chunk-CKW6PF4H.js   | -             |   4.71 kB | 
+chunk-5U7R5DCE.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [1.364 seconds] - 2026-10-23T05:31:46.858Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      | Raw size
+main.js             | main       | 16.68 kB | 
+chunk-GVVXUFLT.js   | -          |  8.99 kB | 
+chunk-6RLPVKGK.js   | -          |  4.32 kB | 
+chunk-OVX7COSG.js   | -          |  1.93 kB | 
+
+Lazy chunk files    | Names      | Raw size
+chunk-S6XAWTJP.js   | rooms      | 99.39 kB | 
+chunk-DEJ532B7.js   | tenancies  | 52.78 kB | 
+chunk-NHJ6DDTH.js   | complaints | 37.22 kB | 
+chunk-J2S7ZH5V.js   | properties | 31.40 kB | 
+chunk-CXCWQISP.js   | employees  | 29.65 kB | 
+chunk-56R2DWPT.js   | financials | 29.01 kB | 
+chunk-RRO5KHQY.js   | -          | 27.72 kB | 
+chunk-RX4FWDTI.js   | profile    | 15.68 kB | 
+chunk-UCL74URG.js   | login      |  9.60 kB | 
+chunk-B33DZ5DB.js   | dashboard  |  9.43 kB | 
+chunk-VWE42YZC.js   | invoices   |  3.49 kB | 
+
+Application bundle generation complete. [0.764 seconds] - 2026-10-23T05:35:26.229Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names |  Raw size
+main.js             | main  |  16.68 kB | 
+
+Lazy chunk files    | Names |  Raw size
+chunk-VGM2DYCC.js   | rooms | 101.01 kB | 
+
+Application bundle generation complete. [0.963 seconds] - 2026-10-23T05:35:27.200Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-GVVXUFLT.js   | -             |   8.99 kB | 
+chunk-6RLPVKGK.js   | -             |   4.32 kB | 
+chunk-OVX7COSG.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.47 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-VGM2DYCC.js   | rooms         | 101.01 kB | 
+chunk-DEJ532B7.js   | tenancies     |  52.78 kB | 
+chunk-NHJ6DDTH.js   | complaints    |  37.22 kB | 
+chunk-J2S7ZH5V.js   | properties    |  31.40 kB | 
+chunk-CXCWQISP.js   | employees     |  29.65 kB | 
+chunk-56R2DWPT.js   | financials    |  29.01 kB | 
+chunk-RRO5KHQY.js   | -             |  27.72 kB | 
+chunk-RX4FWDTI.js   | profile       |  15.68 kB | 
+chunk-UCL74URG.js   | login         |   9.60 kB | 
+chunk-B33DZ5DB.js   | dashboard     |   9.43 kB | 
+chunk-CKW6PF4H.js   | -             |   4.71 kB | 
+chunk-VWE42YZC.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.956 seconds] - 2026-10-23T05:35:35.601Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      |  Raw size
+main.js             | main       |  16.68 kB | 
+chunk-JA2WCLHO.js   | -          |   8.99 kB | 
+chunk-YMYXW5SZ.js   | -          |   4.32 kB | 
+chunk-LODGA2O3.js   | -          |   1.93 kB | 
+
+Lazy chunk files    | Names      |  Raw size
+chunk-EEH3OREE.js   | rooms      | 101.01 kB | 
+chunk-42BLYC3M.js   | tenancies  |  52.78 kB | 
+chunk-JRRET3O4.js   | complaints |  37.22 kB | 
+chunk-NCSFRHEI.js   | financials |  35.24 kB | 
+chunk-CJXFMWY6.js   | properties |  31.40 kB | 
+chunk-5MEN4UPC.js   | employees  |  29.65 kB | 
+chunk-QYTQBSKJ.js   | -          |  27.72 kB | 
+chunk-RPNWWXU2.js   | profile    |  15.68 kB | 
+chunk-OMKX5TA7.js   | login      |   9.60 kB | 
+chunk-Q47NSGZN.js   | dashboard  |   9.43 kB | 
+chunk-27D6V3KZ.js   | invoices   |   3.49 kB | 
+
+Application bundle generation complete. [1.366 seconds] - 2026-10-23T05:42:02.639Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-JA2WCLHO.js   | -             |   8.99 kB | 
+chunk-YMYXW5SZ.js   | -             |   4.32 kB | 
+chunk-LODGA2O3.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.47 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-EEH3OREE.js   | rooms         | 101.01 kB | 
+chunk-42BLYC3M.js   | tenancies     |  52.78 kB | 
+chunk-JRRET3O4.js   | complaints    |  37.22 kB | 
+chunk-NCSFRHEI.js   | financials    |  35.24 kB | 
+chunk-CJXFMWY6.js   | properties    |  31.40 kB | 
+chunk-5MEN4UPC.js   | employees     |  29.65 kB | 
+chunk-QYTQBSKJ.js   | -             |  27.72 kB | 
+chunk-RPNWWXU2.js   | profile       |  15.68 kB | 
+chunk-OMKX5TA7.js   | login         |   9.60 kB | 
+chunk-Q47NSGZN.js   | dashboard     |   9.43 kB | 
+chunk-CKW6PF4H.js   | -             |   4.71 kB | 
+chunk-27D6V3KZ.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.348 seconds] - 2026-10-23T05:42:07.136Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      | Raw size
+main.js             | main       | 16.68 kB | 
+
+Lazy chunk files    | Names      | Raw size
+chunk-G3XFRIM4.js   | financials | 35.79 kB | 
+
+Application bundle generation complete. [0.739 seconds] - 2026-10-23T05:45:39.390Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-JA2WCLHO.js   | -             |   8.99 kB | 
+chunk-YMYXW5SZ.js   | -             |   4.32 kB | 
+chunk-LODGA2O3.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.47 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-EEH3OREE.js   | rooms         | 101.01 kB | 
+chunk-42BLYC3M.js   | tenancies     |  52.78 kB | 
+chunk-JRRET3O4.js   | complaints    |  37.22 kB | 
+chunk-G3XFRIM4.js   | financials    |  35.79 kB | 
+chunk-CJXFMWY6.js   | properties    |  31.40 kB | 
+chunk-5MEN4UPC.js   | employees     |  29.65 kB | 
+chunk-QYTQBSKJ.js   | -             |  27.72 kB | 
+chunk-RPNWWXU2.js   | profile       |  15.68 kB | 
+chunk-OMKX5TA7.js   | login         |   9.60 kB | 
+chunk-Q47NSGZN.js   | dashboard     |   9.43 kB | 
+chunk-CKW6PF4H.js   | -             |   4.71 kB | 
+chunk-27D6V3KZ.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.647 seconds] - 2026-10-23T05:45:42.751Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names |  Raw size
+main.js             | main  |  16.68 kB | 
+
+Lazy chunk files    | Names |  Raw size
+chunk-H4TCWEI4.js   | rooms | 101.50 kB | 
+
+Application bundle generation complete. [1.323 seconds] - 2026-10-23T05:50:19.735Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-JA2WCLHO.js   | -             |   8.99 kB | 
+chunk-YMYXW5SZ.js   | -             |   4.32 kB | 
+chunk-LODGA2O3.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.47 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-H4TCWEI4.js   | rooms         | 101.50 kB | 
+chunk-42BLYC3M.js   | tenancies     |  52.78 kB | 
+chunk-JRRET3O4.js   | complaints    |  37.22 kB | 
+chunk-G3XFRIM4.js   | financials    |  35.79 kB | 
+chunk-CJXFMWY6.js   | properties    |  31.40 kB | 
+chunk-5MEN4UPC.js   | employees     |  29.65 kB | 
+chunk-QYTQBSKJ.js   | -             |  27.72 kB | 
+chunk-RPNWWXU2.js   | profile       |  15.68 kB | 
+chunk-OMKX5TA7.js   | login         |   9.60 kB | 
+chunk-Q47NSGZN.js   | dashboard     |   9.43 kB | 
+chunk-CKW6PF4H.js   | -             |   4.71 kB | 
+chunk-27D6V3KZ.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [1.428 seconds] - 2026-10-23T05:50:28.862Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names |  Raw size
+main.js             | main  |  16.68 kB | 
+
+Lazy chunk files    | Names |  Raw size
+chunk-EEH3OREE.js   | rooms | 101.01 kB | 
+
+Application bundle generation complete. [1.376 seconds] - 2026-10-23T05:51:34.847Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Application bundle generation failed. [2.398 seconds] - 2026-10-23T05:52:28.374Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Application bundle generation failed. [0.958 seconds] - 2026-10-23T05:52:39.711Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Application bundle generation failed. [1.076 seconds] - 2026-10-23T05:55:42.497Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Application bundle generation failed. [0.823 seconds] - 2026-10-23T05:55:45.397Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-Y5WBT2AA.js   | -             |   9.02 kB | 
+chunk-USX3BHN6.js   | -             |   4.32 kB | 
+chunk-ADE6TFRC.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.50 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-DLZVKQJQ.js   | rooms         | 105.36 kB | 
+chunk-WBBCZUM2.js   | tenancies     |  52.78 kB | 
+chunk-T7TIDMZP.js   | complaints    |  37.22 kB | 
+chunk-FUVSA2AZ.js   | financials    |  36.84 kB | 
+chunk-UGJNDUQK.js   | properties    |  31.40 kB | 
+chunk-5XOVD37Q.js   | employees     |  29.65 kB | 
+chunk-QUDBS5NC.js   | -             |  27.72 kB | 
+chunk-LN45Q3SI.js   | profile       |  15.68 kB | 
+chunk-QLP3G6UJ.js   | login         |   9.60 kB | 
+chunk-EVCDKRJD.js   | dashboard     |   9.43 kB | 
+chunk-CKW6PF4H.js   | -             |   4.71 kB | 
+chunk-RQ4PEOQ3.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.605 seconds] - 2026-10-23T06:13:06.412Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Application bundle generation failed. [1.734 seconds] - 2026-10-23T06:15:04.652Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-Y5WBT2AA.js   | -             |   9.02 kB | 
+chunk-USX3BHN6.js   | -             |   4.32 kB | 
+chunk-ADE6TFRC.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.50 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-ZTPZOI3X.js   | rooms         | 105.25 kB | 
+chunk-WBBCZUM2.js   | tenancies     |  52.78 kB | 
+chunk-T7TIDMZP.js   | complaints    |  37.22 kB | 
+chunk-IW5IGREZ.js   | financials    |  36.84 kB | 
+chunk-PZZ7JWBU.js   | properties    |  31.40 kB | 
+chunk-5XOVD37Q.js   | employees     |  29.65 kB | 
+chunk-QUDBS5NC.js   | -             |  27.72 kB | 
+chunk-LN45Q3SI.js   | profile       |  15.68 kB | 
+chunk-QLP3G6UJ.js   | login         |   9.60 kB | 
+chunk-EVCDKRJD.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-RQ4PEOQ3.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [1.491 seconds] - 2026-10-23T06:16:04.778Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-Y5WBT2AA.js   | -             |   9.02 kB | 
+chunk-USX3BHN6.js   | -             |   4.32 kB | 
+chunk-ADE6TFRC.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.50 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-ZTPZOI3X.js   | rooms         | 105.25 kB | 
+chunk-WBBCZUM2.js   | tenancies     |  52.78 kB | 
+chunk-T7TIDMZP.js   | complaints    |  37.22 kB | 
+chunk-IW5IGREZ.js   | financials    |  36.84 kB | 
+chunk-PZZ7JWBU.js   | properties    |  31.40 kB | 
+chunk-5XOVD37Q.js   | employees     |  29.65 kB | 
+chunk-QUDBS5NC.js   | -             |  27.72 kB | 
+chunk-LN45Q3SI.js   | profile       |  15.68 kB | 
+chunk-QLP3G6UJ.js   | login         |   9.60 kB | 
+chunk-EVCDKRJD.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-RQ4PEOQ3.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [1.284 seconds] - 2026-10-23T06:16:17.651Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      | Raw size
+main.js             | main       | 16.68 kB | 
+
+Lazy chunk files    | Names      | Raw size
+chunk-34LAEEQQ.js   | financials | 36.85 kB | 
+
+Application bundle generation complete. [0.643 seconds] - 2026-10-23T06:23:51.144Z
+
+Component update sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-Y5WBT2AA.js   | -             |   9.02 kB | 
+chunk-USX3BHN6.js   | -             |   4.32 kB | 
+chunk-ADE6TFRC.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.50 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-ZTPZOI3X.js   | rooms         | 105.25 kB | 
+chunk-WBBCZUM2.js   | tenancies     |  52.78 kB | 
+chunk-T7TIDMZP.js   | complaints    |  37.22 kB | 
+chunk-34LAEEQQ.js   | financials    |  36.85 kB | 
+chunk-PZZ7JWBU.js   | properties    |  31.40 kB | 
+chunk-5XOVD37Q.js   | employees     |  29.65 kB | 
+chunk-QUDBS5NC.js   | -             |  27.72 kB | 
+chunk-LN45Q3SI.js   | profile       |  15.68 kB | 
+chunk-QLP3G6UJ.js   | login         |   9.60 kB | 
+chunk-EVCDKRJD.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-RQ4PEOQ3.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.669 seconds] - 2026-10-23T06:24:00.942Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      |  Raw size
+main.js             | main       |  16.68 kB | 
+chunk-V2Y2TVUS.js   | -          |   9.02 kB | 
+chunk-2BZ2Z3BL.js   | -          |   4.32 kB | 
+chunk-MJ5WPHHF.js   | -          |   1.93 kB | 
+
+Lazy chunk files    | Names      |  Raw size
+chunk-7P4FT7BF.js   | rooms      | 105.25 kB | 
+chunk-VE2PE46E.js   | tenancies  |  52.78 kB | 
+chunk-NQTOBVZY.js   | complaints |  37.22 kB | 
+chunk-ZMCVWKQQ.js   | financials |  36.85 kB | 
+chunk-4DJO5JUJ.js   | properties |  31.40 kB | 
+chunk-4GTTS2GU.js   | employees  |  29.65 kB | 
+chunk-NJS2MDQZ.js   | -          |  27.72 kB | 
+chunk-6Q7PKK4E.js   | profile    |  15.68 kB | 
+chunk-GIWU5LAJ.js   | login      |   9.60 kB | 
+chunk-QEK4I6NC.js   | dashboard  |   9.43 kB | 
+chunk-HLVPIW6F.js   | invoices   |   3.49 kB | 
+
+Application bundle generation complete. [0.675 seconds] - 2026-10-23T06:26:54.486Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      | Raw size
+main.js             | main       | 16.68 kB | 
+
+Lazy chunk files    | Names      | Raw size
+chunk-IXPZG2HV.js   | financials | 44.02 kB | 
+
+Application bundle generation complete. [0.694 seconds] - 2026-10-23T06:26:55.191Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-V2Y2TVUS.js   | -             |   9.02 kB | 
+chunk-2BZ2Z3BL.js   | -             |   4.32 kB | 
+chunk-MJ5WPHHF.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.50 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-7P4FT7BF.js   | rooms         | 105.25 kB | 
+chunk-VE2PE46E.js   | tenancies     |  52.78 kB | 
+chunk-IXPZG2HV.js   | financials    |  44.02 kB | 
+chunk-NQTOBVZY.js   | complaints    |  37.22 kB | 
+chunk-4DJO5JUJ.js   | properties    |  31.40 kB | 
+chunk-4GTTS2GU.js   | employees     |  29.65 kB | 
+chunk-NJS2MDQZ.js   | -             |  27.72 kB | 
+chunk-6Q7PKK4E.js   | profile       |  15.68 kB | 
+chunk-GIWU5LAJ.js   | login         |   9.60 kB | 
+chunk-QEK4I6NC.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-HLVPIW6F.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.516 seconds] - 2026-10-23T06:27:16.952Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      |  Raw size
+main.js             | main       |  16.68 kB | 
+chunk-6QTETLHQ.js   | -          |   9.02 kB | 
+chunk-BJDXKN4Z.js   | -          |   4.32 kB | 
+chunk-JGU6PQUA.js   | -          |   1.93 kB | 
+
+Lazy chunk files    | Names      |  Raw size
+chunk-HQHS6V6I.js   | rooms      | 105.25 kB | 
+chunk-GMEXGLZZ.js   | tenancies  |  52.78 kB | 
+chunk-J5AIQZAG.js   | financials |  45.66 kB | 
+chunk-T5POAMU6.js   | complaints |  37.22 kB | 
+chunk-F6NJFTCV.js   | properties |  31.40 kB | 
+chunk-357HNRPL.js   | employees  |  29.65 kB | 
+chunk-VUYLF22G.js   | -          |  27.72 kB | 
+chunk-YSM4B6J7.js   | profile    |  15.68 kB | 
+chunk-3RCHFFJL.js   | login      |   9.60 kB | 
+chunk-33OOWBSX.js   | dashboard  |   9.43 kB | 
+chunk-C2MZ36Y7.js   | invoices   |   3.49 kB | 
+
+Application bundle generation complete. [0.916 seconds] - 2026-10-23T06:34:20.592Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-6QTETLHQ.js   | -             |   9.02 kB | 
+chunk-BJDXKN4Z.js   | -             |   4.32 kB | 
+chunk-JGU6PQUA.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.50 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-HQHS6V6I.js   | rooms         | 105.25 kB | 
+chunk-GMEXGLZZ.js   | tenancies     |  52.78 kB | 
+chunk-J5AIQZAG.js   | financials    |  45.66 kB | 
+chunk-T5POAMU6.js   | complaints    |  37.22 kB | 
+chunk-F6NJFTCV.js   | properties    |  31.40 kB | 
+chunk-357HNRPL.js   | employees     |  29.65 kB | 
+chunk-VUYLF22G.js   | -             |  27.72 kB | 
+chunk-YSM4B6J7.js   | profile       |  15.68 kB | 
+chunk-3RCHFFJL.js   | login         |   9.60 kB | 
+chunk-33OOWBSX.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-C2MZ36Y7.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.561 seconds] - 2026-10-23T06:34:52.380Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      | Raw size
+main.js             | main       | 16.68 kB | 
+
+Lazy chunk files    | Names      | Raw size
+chunk-64CRULQO.js   | financials | 50.79 kB | 
+
+Application bundle generation complete. [0.684 seconds] - 2026-10-23T06:43:42.318Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-6QTETLHQ.js   | -             |   9.02 kB | 
+chunk-BJDXKN4Z.js   | -             |   4.32 kB | 
+chunk-JGU6PQUA.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.50 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-HQHS6V6I.js   | rooms         | 105.25 kB | 
+chunk-GMEXGLZZ.js   | tenancies     |  52.78 kB | 
+chunk-64CRULQO.js   | financials    |  50.79 kB | 
+chunk-T5POAMU6.js   | complaints    |  37.22 kB | 
+chunk-F6NJFTCV.js   | properties    |  31.40 kB | 
+chunk-357HNRPL.js   | employees     |  29.65 kB | 
+chunk-VUYLF22G.js   | -             |  27.72 kB | 
+chunk-YSM4B6J7.js   | profile       |  15.68 kB | 
+chunk-3RCHFFJL.js   | login         |   9.60 kB | 
+chunk-33OOWBSX.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-C2MZ36Y7.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.721 seconds] - 2026-10-23T06:43:46.002Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      | Raw size
+main.js             | main       | 16.68 kB | 
+
+Lazy chunk files    | Names      | Raw size
+chunk-Q3PDG4LR.js   | financials | 55.84 kB | 
+
+Application bundle generation complete. [0.619 seconds] - 2026-10-23T06:44:35.653Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-6QTETLHQ.js   | -             |   9.02 kB | 
+chunk-BJDXKN4Z.js   | -             |   4.32 kB | 
+chunk-JGU6PQUA.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.50 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-HQHS6V6I.js   | rooms         | 105.25 kB | 
+chunk-Q3PDG4LR.js   | financials    |  55.84 kB | 
+chunk-GMEXGLZZ.js   | tenancies     |  52.78 kB | 
+chunk-T5POAMU6.js   | complaints    |  37.22 kB | 
+chunk-F6NJFTCV.js   | properties    |  31.40 kB | 
+chunk-357HNRPL.js   | employees     |  29.65 kB | 
+chunk-VUYLF22G.js   | -             |  27.72 kB | 
+chunk-YSM4B6J7.js   | profile       |  15.68 kB | 
+chunk-3RCHFFJL.js   | login         |   9.60 kB | 
+chunk-33OOWBSX.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-C2MZ36Y7.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.642 seconds] - 2026-10-23T06:44:37.748Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      | Raw size
+main.js             | main       | 16.68 kB | 
+
+Lazy chunk files    | Names      | Raw size
+chunk-5N3HZOUR.js   | financials | 55.84 kB | 
+
+Application bundle generation complete. [0.767 seconds] - 2026-10-23T06:46:18.302Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-6QTETLHQ.js   | -             |   9.02 kB | 
+chunk-BJDXKN4Z.js   | -             |   4.32 kB | 
+chunk-JGU6PQUA.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.50 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-HQHS6V6I.js   | rooms         | 105.25 kB | 
+chunk-5N3HZOUR.js   | financials    |  55.84 kB | 
+chunk-GMEXGLZZ.js   | tenancies     |  52.78 kB | 
+chunk-T5POAMU6.js   | complaints    |  37.22 kB | 
+chunk-F6NJFTCV.js   | properties    |  31.40 kB | 
+chunk-357HNRPL.js   | employees     |  29.65 kB | 
+chunk-VUYLF22G.js   | -             |  27.72 kB | 
+chunk-YSM4B6J7.js   | profile       |  15.68 kB | 
+chunk-3RCHFFJL.js   | login         |   9.60 kB | 
+chunk-33OOWBSX.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-C2MZ36Y7.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.462 seconds] - 2026-10-23T06:46:34.363Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Application bundle generation failed. [0.504 seconds] - 2026-10-23T06:47:34.323Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Application bundle generation failed. [0.390 seconds] - 2026-10-23T06:48:09.731Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Application bundle generation failed. [0.441 seconds] - 2026-10-23T06:50:46.309Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-L2RSDRW4.js   | -             |   9.02 kB | 
+chunk-UFBE6WSD.js   | -             |   4.32 kB | 
+chunk-TYICCSCF.js   | -             |   2.40 kB | 
+
+                    | Initial total |  81.97 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-SBU5E3IB.js   | rooms         | 105.25 kB | 
+chunk-QA4SYCQN.js   | tenancies     |  52.78 kB | 
+chunk-7MA4VB72.js   | complaints    |  37.22 kB | 
+chunk-DHZQXXJH.js   | properties    |  31.40 kB | 
+chunk-JQP3UAI2.js   | employees     |  29.65 kB | 
+chunk-PN5SOT3X.js   | -             |  27.72 kB | 
+chunk-GTBDUNDH.js   | profile       |  15.68 kB | 
+chunk-BKAXT6T2.js   | financials    |  15.26 kB | 
+chunk-RBEJNYCD.js   | login         |   9.60 kB | 
+chunk-X76S4NGD.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-W66UQTRN.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.307 seconds] - 2026-10-23T06:50:48.745Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      |  Raw size
+main.js             | main       |  16.68 kB | 
+chunk-6QTETLHQ.js   | -          |   9.02 kB | 
+chunk-BJDXKN4Z.js   | -          |   4.32 kB | 
+chunk-JGU6PQUA.js   | -          |   1.93 kB | 
+
+Lazy chunk files    | Names      |  Raw size
+chunk-HQHS6V6I.js   | rooms      | 105.25 kB | 
+chunk-WCDMUKEJ.js   | financials |  55.98 kB | 
+chunk-GMEXGLZZ.js   | tenancies  |  52.78 kB | 
+chunk-T5POAMU6.js   | complaints |  37.22 kB | 
+chunk-F6NJFTCV.js   | properties |  31.40 kB | 
+chunk-357HNRPL.js   | employees  |  29.65 kB | 
+chunk-VUYLF22G.js   | -          |  27.72 kB | 
+chunk-YSM4B6J7.js   | profile    |  15.68 kB | 
+chunk-3RCHFFJL.js   | login      |   9.60 kB | 
+chunk-33OOWBSX.js   | dashboard  |   9.43 kB | 
+chunk-C2MZ36Y7.js   | invoices   |   3.49 kB | 
+
+Application bundle generation complete. [0.944 seconds] - 2026-10-23T06:52:46.959Z
+
+Component update sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-6QTETLHQ.js   | -             |   9.02 kB | 
+chunk-BJDXKN4Z.js   | -             |   4.32 kB | 
+chunk-JGU6PQUA.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.50 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-HQHS6V6I.js   | rooms         | 105.25 kB | 
+chunk-WCDMUKEJ.js   | financials    |  55.98 kB | 
+chunk-GMEXGLZZ.js   | tenancies     |  52.78 kB | 
+chunk-T5POAMU6.js   | complaints    |  37.22 kB | 
+chunk-F6NJFTCV.js   | properties    |  31.40 kB | 
+chunk-357HNRPL.js   | employees     |  29.65 kB | 
+chunk-VUYLF22G.js   | -             |  27.72 kB | 
+chunk-YSM4B6J7.js   | profile       |  15.68 kB | 
+chunk-3RCHFFJL.js   | login         |   9.60 kB | 
+chunk-33OOWBSX.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-C2MZ36Y7.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.882 seconds] - 2026-10-23T06:52:50.167Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      |  Raw size
+main.js             | main       |  16.68 kB | 
+chunk-E5GGZDWB.js   | -          |   9.02 kB | 
+chunk-J4E4IZ3J.js   | -          |   4.32 kB | 
+chunk-DCY2XVLD.js   | -          |   1.93 kB | 
+
+Lazy chunk files    | Names      |  Raw size
+chunk-TQ5W4637.js   | rooms      | 105.25 kB | 
+chunk-33GU77AP.js   | financials |  55.98 kB | 
+chunk-OMFXTBE4.js   | tenancies  |  52.78 kB | 
+chunk-QIIRKBOD.js   | complaints |  37.22 kB | 
+chunk-AF5DMJMW.js   | properties |  31.40 kB | 
+chunk-AMM52CFE.js   | employees  |  29.65 kB | 
+chunk-X4UDAAAG.js   | -          |  27.72 kB | 
+chunk-LSWLSDWW.js   | profile    |  15.68 kB | 
+chunk-I6JJ75VA.js   | login      |   9.60 kB | 
+chunk-QWWCCJOU.js   | dashboard  |   9.43 kB | 
+chunk-NVV3774M.js   | invoices   |   3.49 kB | 
+
+Application bundle generation complete. [0.688 seconds] - 2026-10-23T07:03:04.818Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-E5GGZDWB.js   | -             |   9.02 kB | 
+chunk-J4E4IZ3J.js   | -             |   4.32 kB | 
+chunk-DCY2XVLD.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.50 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-TQ5W4637.js   | rooms         | 105.25 kB | 
+chunk-33GU77AP.js   | financials    |  55.98 kB | 
+chunk-OMFXTBE4.js   | tenancies     |  52.78 kB | 
+chunk-QIIRKBOD.js   | complaints    |  37.22 kB | 
+chunk-AF5DMJMW.js   | properties    |  31.40 kB | 
+chunk-AMM52CFE.js   | employees     |  29.65 kB | 
+chunk-X4UDAAAG.js   | -             |  27.72 kB | 
+chunk-LSWLSDWW.js   | profile       |  15.68 kB | 
+chunk-I6JJ75VA.js   | login         |   9.60 kB | 
+chunk-QWWCCJOU.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-NVV3774M.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.230 seconds] - 2026-10-23T07:03:06.764Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names     | Raw size
+main.js             | main      | 16.68 kB | 
+
+Lazy chunk files    | Names     | Raw size
+chunk-X7X5ZYRJ.js   | tenancies | 53.98 kB | 
+
+Application bundle generation complete. [0.673 seconds] - 2026-10-23T07:03:12.804Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-E5GGZDWB.js   | -             |   9.02 kB | 
+chunk-J4E4IZ3J.js   | -             |   4.32 kB | 
+chunk-DCY2XVLD.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.50 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-TQ5W4637.js   | rooms         | 105.25 kB | 
+chunk-33GU77AP.js   | financials    |  55.98 kB | 
+chunk-X7X5ZYRJ.js   | tenancies     |  53.98 kB | 
+chunk-QIIRKBOD.js   | complaints    |  37.22 kB | 
+chunk-AF5DMJMW.js   | properties    |  31.40 kB | 
+chunk-AMM52CFE.js   | employees     |  29.65 kB | 
+chunk-X4UDAAAG.js   | -             |  27.72 kB | 
+chunk-LSWLSDWW.js   | profile       |  15.68 kB | 
+chunk-I6JJ75VA.js   | login         |   9.60 kB | 
+chunk-QWWCCJOU.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-NVV3774M.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [0.699 seconds] - 2026-10-23T07:03:13.999Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Application bundle generation failed. [1.849 seconds] - 2026-10-23T07:41:13.824Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-E5GGZDWB.js   | -             |   9.02 kB | 
+chunk-J4E4IZ3J.js   | -             |   4.32 kB | 
+chunk-DCY2XVLD.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.50 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-XSFR6ERF.js   | rooms         | 105.33 kB | 
+chunk-33GU77AP.js   | financials    |  55.98 kB | 
+chunk-X7X5ZYRJ.js   | tenancies     |  53.98 kB | 
+chunk-QIIRKBOD.js   | complaints    |  37.22 kB | 
+chunk-AF5DMJMW.js   | properties    |  31.40 kB | 
+chunk-AMM52CFE.js   | employees     |  29.65 kB | 
+chunk-X4UDAAAG.js   | -             |  27.72 kB | 
+chunk-LSWLSDWW.js   | profile       |  15.68 kB | 
+chunk-I6JJ75VA.js   | login         |   9.60 kB | 
+chunk-QWWCCJOU.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-NVV3774M.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [1.233 seconds] - 2026-10-23T07:41:15.071Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-E5GGZDWB.js   | -             |   9.02 kB | 
+chunk-J4E4IZ3J.js   | -             |   4.32 kB | 
+chunk-DCY2XVLD.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.50 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-XSFR6ERF.js   | rooms         | 105.33 kB | 
+chunk-33GU77AP.js   | financials    |  55.98 kB | 
+chunk-X7X5ZYRJ.js   | tenancies     |  53.98 kB | 
+chunk-QIIRKBOD.js   | complaints    |  37.22 kB | 
+chunk-AF5DMJMW.js   | properties    |  31.40 kB | 
+chunk-AMM52CFE.js   | employees     |  29.65 kB | 
+chunk-X4UDAAAG.js   | -             |  27.72 kB | 
+chunk-LSWLSDWW.js   | profile       |  15.68 kB | 
+chunk-I6JJ75VA.js   | login         |   9.60 kB | 
+chunk-QWWCCJOU.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-NVV3774M.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [1.437 seconds] - 2026-10-23T07:41:30.885Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names |  Raw size
+main.js             | main  |  16.68 kB | 
+
+Lazy chunk files    | Names |  Raw size
+chunk-RGO5EBR7.js   | rooms | 105.59 kB | 
+
+Application bundle generation complete. [1.298 seconds] - 2026-10-23T07:55:01.264Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  16.68 kB | 
+chunk-E5GGZDWB.js   | -             |   9.02 kB | 
+chunk-J4E4IZ3J.js   | -             |   4.32 kB | 
+chunk-DCY2XVLD.js   | -             |   1.93 kB | 
+
+                    | Initial total |  81.50 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-RGO5EBR7.js   | rooms         | 105.59 kB | 
+chunk-33GU77AP.js   | financials    |  55.98 kB | 
+chunk-X7X5ZYRJ.js   | tenancies     |  53.98 kB | 
+chunk-QIIRKBOD.js   | complaints    |  37.22 kB | 
+chunk-AF5DMJMW.js   | properties    |  31.40 kB | 
+chunk-AMM52CFE.js   | employees     |  29.65 kB | 
+chunk-X4UDAAAG.js   | -             |  27.72 kB | 
+chunk-LSWLSDWW.js   | profile       |  15.68 kB | 
+chunk-I6JJ75VA.js   | login         |   9.60 kB | 
+chunk-QWWCCJOU.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-NVV3774M.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+chunk-HBH5JPG3.js   | -             | 925 bytes | 
+
+Application bundle generation complete. [1.287 seconds] - 2026-10-23T07:55:02.556Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      |  Raw size
+main.js             | main       |  16.68 kB | 
+chunk-FQX7OZKI.js   | -          |   4.33 kB | 
+
+Lazy chunk files    | Names      |  Raw size
+chunk-GLGVQKBE.js   | rooms      | 105.59 kB | 
+chunk-C2UDWH3V.js   | financials |  55.98 kB | 
+chunk-N2I3EOJ4.js   | properties |  31.40 kB | 
+chunk-FTQUR54C.js   | employees  |  29.65 kB | 
+chunk-6ER4SA62.js   | profile    |  15.68 kB | 
+chunk-R6WACSJP.js   | login      |   9.60 kB | 
+
+Application bundle generation complete. [1.044 seconds] - 2026-10-23T08:26:10.855Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Application bundle generation failed. [1.356 seconds] - 2026-10-23T08:26:12.217Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  17.54 kB | 
+chunk-4RZDFEA3.js   | -             |   9.26 kB | 
+chunk-ZZCFYGUN.js   | -             |   4.33 kB | 
+chunk-MFZVQRCA.js   | -             |   2.18 kB | 
+
+                    | Initial total |  82.85 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-TCNWTANT.js   | rooms         | 105.59 kB | 
+chunk-J7FOYN5V.js   | financials    |  55.98 kB | 
+chunk-JIZ433ZI.js   | tenancies     |  53.98 kB | 
+chunk-H6F6XY4G.js   | complaints    |  37.22 kB | 
+chunk-EQIKTLP6.js   | properties    |  31.40 kB | 
+chunk-PVJDKSNJ.js   | employees     |  29.65 kB | 
+chunk-DW45VRSZ.js   | -             |  27.72 kB | 
+chunk-CL2OTNEJ.js   | profile       |  15.68 kB | 
+chunk-TLUXWIGL.js   | repairs       |  15.22 kB | 
+chunk-JKZA6QT4.js   | login         |   9.60 kB | 
+chunk-GGBF6G2A.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-RKIDIX2L.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+...and 1 more lazy chunks files. Use "--verbose" to show all the files.
+
+Application bundle generation complete. [1.460 seconds] - 2026-10-23T08:27:20.288Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      |  Raw size
+main.js             | main       |  17.54 kB | 
+chunk-M3I733V7.js   | -          |   9.26 kB | 
+chunk-5WERKA6L.js   | -          |   4.33 kB | 
+chunk-T6PEVGVI.js   | -          |   2.18 kB | 
+
+Lazy chunk files    | Names      |  Raw size
+chunk-L7TU62MS.js   | rooms      | 105.59 kB | 
+chunk-Q6AA5VX4.js   | financials |  55.98 kB | 
+chunk-OCDWOOI7.js   | tenancies  |  53.98 kB | 
+chunk-TAZ33BAX.js   | complaints |  37.22 kB | 
+chunk-2LZ2RIP6.js   | properties |  31.40 kB | 
+chunk-B5QGGPLN.js   | employees  |  29.65 kB | 
+chunk-CAJXQTXN.js   | -          |  27.72 kB | 
+chunk-EISNS7FO.js   | profile    |  15.68 kB | 
+chunk-JMCYMJXL.js   | repairs    |  15.22 kB | 
+chunk-AVOVWRYA.js   | login      |   9.60 kB | 
+chunk-P7V2D6IV.js   | dashboard  |   9.43 kB | 
+chunk-WCKGXIQU.js   | invoices   |   3.49 kB | 
+
+Application bundle generation complete. [2.092 seconds] - 2026-10-23T09:10:44.520Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names     | Raw size
+main.js             | main      | 17.54 kB | 
+
+Lazy chunk files    | Names     | Raw size
+chunk-KW4WUUCI.js   | tenancies | 55.23 kB | 
+
+Application bundle generation complete. [1.693 seconds] - 2026-10-23T09:10:46.226Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names     | Raw size
+main.js             | main      | 17.54 kB | 
+
+Lazy chunk files    | Names     | Raw size
+chunk-IC5EXNRW.js   | tenancies | 55.33 kB | 
+
+Application bundle generation complete. [1.107 seconds] - 2026-10-23T09:15:03.387Z
+
+Component update sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  17.54 kB | 
+chunk-M3I733V7.js   | -             |   9.26 kB | 
+chunk-5WERKA6L.js   | -             |   4.33 kB | 
+chunk-T6PEVGVI.js   | -             |   2.18 kB | 
+
+                    | Initial total |  82.85 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-L7TU62MS.js   | rooms         | 105.59 kB | 
+chunk-Q6AA5VX4.js   | financials    |  55.98 kB | 
+chunk-IC5EXNRW.js   | tenancies     |  55.33 kB | 
+chunk-TAZ33BAX.js   | complaints    |  37.22 kB | 
+chunk-2LZ2RIP6.js   | properties    |  31.40 kB | 
+chunk-B5QGGPLN.js   | employees     |  29.65 kB | 
+chunk-CAJXQTXN.js   | -             |  27.72 kB | 
+chunk-EISNS7FO.js   | profile       |  15.68 kB | 
+chunk-JMCYMJXL.js   | repairs       |  15.22 kB | 
+chunk-AVOVWRYA.js   | login         |   9.60 kB | 
+chunk-P7V2D6IV.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-WCKGXIQU.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+...and 1 more lazy chunks files. Use "--verbose" to show all the files.
+
+Application bundle generation complete. [0.687 seconds] - 2026-10-23T09:15:25.520Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Application bundle generation failed. [4.429 seconds] - 2026-10-26T08:55:46.626Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Application bundle generation failed. [0.855 seconds] - 2026-10-26T08:55:47.484Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  17.54 kB | 
+chunk-MBGDMGS2.js   | -             |   9.36 kB | 
+chunk-5WERKA6L.js   | -             |   4.33 kB | 
+chunk-T6PEVGVI.js   | -             |   2.18 kB | 
+
+                    | Initial total |  82.95 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-C7T56LGP.js   | rooms         | 105.59 kB | 
+chunk-XKQUGMWF.js   | financials    |  57.26 kB | 
+chunk-NQTJ3OOL.js   | tenancies     |  55.33 kB | 
+chunk-7JKUUK3F.js   | complaints    |  37.22 kB | 
+chunk-OWWEB3V5.js   | properties    |  31.40 kB | 
+chunk-I7XCHAMI.js   | employees     |  29.65 kB | 
+chunk-XAP2S53Q.js   | -             |  27.72 kB | 
+chunk-6P6G2VCB.js   | profile       |  15.68 kB | 
+chunk-LWPCFXYH.js   | repairs       |  15.22 kB | 
+chunk-AVOVWRYA.js   | login         |   9.60 kB | 
+chunk-FY5HKON3.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-TLD3K5CC.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+...and 1 more lazy chunks files. Use "--verbose" to show all the files.
+
+Application bundle generation complete. [0.935 seconds] - 2026-10-26T08:55:51.421Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  17.54 kB | 
+chunk-MBGDMGS2.js   | -             |   9.36 kB | 
+chunk-5WERKA6L.js   | -             |   4.33 kB | 
+chunk-T6PEVGVI.js   | -             |   2.18 kB | 
+
+                    | Initial total |  82.95 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-C7T56LGP.js   | rooms         | 105.59 kB | 
+chunk-XKQUGMWF.js   | financials    |  57.26 kB | 
+chunk-NQTJ3OOL.js   | tenancies     |  55.33 kB | 
+chunk-7JKUUK3F.js   | complaints    |  37.22 kB | 
+chunk-OWWEB3V5.js   | properties    |  31.40 kB | 
+chunk-I7XCHAMI.js   | employees     |  29.65 kB | 
+chunk-XAP2S53Q.js   | -             |  27.72 kB | 
+chunk-6P6G2VCB.js   | profile       |  15.68 kB | 
+chunk-LWPCFXYH.js   | repairs       |  15.22 kB | 
+chunk-AVOVWRYA.js   | login         |   9.60 kB | 
+chunk-FY5HKON3.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-TLD3K5CC.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+...and 1 more lazy chunks files. Use "--verbose" to show all the files.
+
+Application bundle generation complete. [0.728 seconds] - 2026-10-26T08:55:54.727Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      |  Raw size
+main.js             | main       |  17.54 kB | 
+chunk-5KUGCXXJ.js   | -          |   9.45 kB | 
+
+Lazy chunk files    | Names      |  Raw size
+chunk-WGPRVGGV.js   | rooms      | 105.59 kB | 
+chunk-2RXYMHMK.js   | financials |  57.45 kB | 
+chunk-4BMW72AI.js   | tenancies  |  55.62 kB | 
+chunk-ZQ7UPJGC.js   | complaints |  38.38 kB | 
+chunk-HDX7XK3G.js   | properties |  31.55 kB | 
+chunk-EP3TB7FO.js   | employees  |  29.65 kB | 
+chunk-VOWV3DKO.js   | -          |  28.01 kB | 
+chunk-TWZWEFNS.js   | profile    |  15.68 kB | 
+chunk-6ARVXVV3.js   | repairs    |  15.22 kB | 
+chunk-EKAHSVWA.js   | dashboard  |   9.43 kB | 
+chunk-4TGK227I.js   | invoices   |   3.49 kB | 
+
+Application bundle generation complete. [2.403 seconds] - 2026-10-26T08:57:32.098Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  49.54 kB | 
+main.js             | main          |  17.54 kB | 
+chunk-5KUGCXXJ.js   | -             |   9.45 kB | 
+chunk-5WERKA6L.js   | -             |   4.33 kB | 
+chunk-T6PEVGVI.js   | -             |   2.18 kB | 
+
+                    | Initial total |  83.04 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-WGPRVGGV.js   | rooms         | 105.59 kB | 
+chunk-2RXYMHMK.js   | financials    |  57.45 kB | 
+chunk-4BMW72AI.js   | tenancies     |  55.62 kB | 
+chunk-ZQ7UPJGC.js   | complaints    |  38.38 kB | 
+chunk-HDX7XK3G.js   | properties    |  31.55 kB | 
+chunk-EP3TB7FO.js   | employees     |  29.65 kB | 
+chunk-VOWV3DKO.js   | -             |  28.01 kB | 
+chunk-TWZWEFNS.js   | profile       |  15.68 kB | 
+chunk-6ARVXVV3.js   | repairs       |  15.22 kB | 
+chunk-AVOVWRYA.js   | login         |   9.60 kB | 
+chunk-EKAHSVWA.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-4TGK227I.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+...and 1 more lazy chunks files. Use "--verbose" to show all the files.
+
+Application bundle generation complete. [1.769 seconds] - 2026-10-26T08:57:38.283Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names | Raw size
+main.js             | main  | 18.23 kB | 
+
+Application bundle generation complete. [0.847 seconds] - 2026-10-26T09:50:32.464Z
+
+Component update sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names  | Raw size
+styles.css          | styles | 52.55 kB | 
+
+Application bundle generation complete. [0.165 seconds] - 2026-10-26T09:50:32.641Z
+
+Stylesheet update sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  52.55 kB | 
+main.js             | main          |  18.23 kB | 
+chunk-5KUGCXXJ.js   | -             |   9.45 kB | 
+chunk-5WERKA6L.js   | -             |   4.33 kB | 
+chunk-T6PEVGVI.js   | -             |   2.18 kB | 
+
+                    | Initial total |  86.74 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-WGPRVGGV.js   | rooms         | 105.59 kB | 
+chunk-2RXYMHMK.js   | financials    |  57.45 kB | 
+chunk-4BMW72AI.js   | tenancies     |  55.62 kB | 
+chunk-ZQ7UPJGC.js   | complaints    |  38.38 kB | 
+chunk-HDX7XK3G.js   | properties    |  31.55 kB | 
+chunk-EP3TB7FO.js   | employees     |  29.65 kB | 
+chunk-VOWV3DKO.js   | -             |  28.01 kB | 
+chunk-TWZWEFNS.js   | profile       |  15.68 kB | 
+chunk-6ARVXVV3.js   | repairs       |  15.22 kB | 
+chunk-AVOVWRYA.js   | login         |   9.60 kB | 
+chunk-EKAHSVWA.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-4TGK227I.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+...and 1 more lazy chunks files. Use "--verbose" to show all the files.
+
+Application bundle generation complete. [0.565 seconds] - 2026-10-26T09:50:35.945Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names |  Raw size
+main.js             | main  |  18.23 kB | 
+
+Lazy chunk files    | Names |  Raw size
+chunk-GHDQ27F5.js   | rooms | 108.29 kB | 
+
+Application bundle generation complete. [1.705 seconds] - 2026-10-26T10:14:42.077Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  52.55 kB | 
+main.js             | main          |  18.23 kB | 
+chunk-5KUGCXXJ.js   | -             |   9.45 kB | 
+chunk-5WERKA6L.js   | -             |   4.33 kB | 
+chunk-T6PEVGVI.js   | -             |   2.18 kB | 
+
+                    | Initial total |  86.74 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-GHDQ27F5.js   | rooms         | 108.29 kB | 
+chunk-2RXYMHMK.js   | financials    |  57.45 kB | 
+chunk-4BMW72AI.js   | tenancies     |  55.62 kB | 
+chunk-ZQ7UPJGC.js   | complaints    |  38.38 kB | 
+chunk-HDX7XK3G.js   | properties    |  31.55 kB | 
+chunk-EP3TB7FO.js   | employees     |  29.65 kB | 
+chunk-VOWV3DKO.js   | -             |  28.01 kB | 
+chunk-TWZWEFNS.js   | profile       |  15.68 kB | 
+chunk-6ARVXVV3.js   | repairs       |  15.22 kB | 
+chunk-AVOVWRYA.js   | login         |   9.60 kB | 
+chunk-EKAHSVWA.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-4TGK227I.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+...and 1 more lazy chunks files. Use "--verbose" to show all the files.
+
+Application bundle generation complete. [1.372 seconds] - 2026-10-26T10:14:44.873Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      |  Raw size
+main.js             | main       |  18.23 kB | 
+chunk-S4HFIIOA.js   | -          |   9.54 kB | 
+
+Lazy chunk files    | Names      |  Raw size
+chunk-BXOEQI5W.js   | rooms      | 108.29 kB | 
+chunk-EBO4GLZI.js   | financials |  57.45 kB | 
+chunk-4CKQYRF2.js   | tenancies  |  55.62 kB | 
+chunk-2EATBUMY.js   | complaints |  38.38 kB | 
+chunk-UG3VBDDM.js   | properties |  31.55 kB | 
+chunk-LSXJ5LWY.js   | employees  |  30.76 kB | 
+chunk-7B35HVCN.js   | -          |  28.01 kB | 
+chunk-QTHGQ4XM.js   | profile    |  15.68 kB | 
+chunk-YTDMMONV.js   | repairs    |  15.22 kB | 
+chunk-7IHCFX2R.js   | dashboard  |   9.43 kB | 
+chunk-ZL3WQUPJ.js   | invoices   |   3.49 kB | 
+
+Application bundle generation complete. [1.222 seconds] - 2026-10-26T10:26:00.299Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        |  52.55 kB | 
+main.js             | main          |  18.23 kB | 
+chunk-S4HFIIOA.js   | -             |   9.54 kB | 
+chunk-5WERKA6L.js   | -             |   4.33 kB | 
+chunk-T6PEVGVI.js   | -             |   2.18 kB | 
+
+                    | Initial total |  86.83 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-BXOEQI5W.js   | rooms         | 108.29 kB | 
+chunk-EBO4GLZI.js   | financials    |  57.45 kB | 
+chunk-4CKQYRF2.js   | tenancies     |  55.62 kB | 
+chunk-2EATBUMY.js   | complaints    |  38.38 kB | 
+chunk-UG3VBDDM.js   | properties    |  31.55 kB | 
+chunk-LSXJ5LWY.js   | employees     |  30.76 kB | 
+chunk-7B35HVCN.js   | -             |  28.01 kB | 
+chunk-QTHGQ4XM.js   | profile       |  15.68 kB | 
+chunk-YTDMMONV.js   | repairs       |  15.22 kB | 
+chunk-AVOVWRYA.js   | login         |   9.60 kB | 
+chunk-7IHCFX2R.js   | dashboard     |   9.43 kB | 
+chunk-CWDA7DPC.js   | -             |   4.71 kB | 
+chunk-ZL3WQUPJ.js   | invoices      |   3.49 kB | 
+chunk-ANP2CUFB.js   | -             |   2.43 kB | 
+chunk-P62DMDP5.js   | -             |   1.59 kB | 
+...and 1 more lazy chunks files. Use "--verbose" to show all the files.
+
+Application bundle generation complete. [0.678 seconds] - 2026-10-26T10:26:11.588Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names      |  Raw size
+main.js             | main       |  18.23 kB | 
+chunk-337CDHHK.js   | -          |   4.53 kB | 
+
+Lazy chunk files    | Names      |  Raw size
+chunk-WKLL4ZTW.js   | rooms      | 108.29 kB | 
+chunk-3OMTFGSS.js   | financials |  57.45 kB | 
+chunk-QJUCID6E.js   | properties |  31.55 kB | 
+chunk-RHPBUR5F.js   | employees  |  30.76 kB | 
+chunk-SNI66MHC.js   | profile    |  15.68 kB | 
+chunk-Y3HRPZ3J.js   | login      |   9.60 kB | 
+
+Application bundle generation complete. [0.519 seconds] - 2026-10-26T10:39:00.939Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names           | Raw size
+main.js             | main            | 18.34 kB | 
+
+Lazy chunk files    | Names           | Raw size
+chunk-3TYLQCQJ.js   | forgot-password | 11.37 kB | 
+chunk-AHDJZPMJ.js   | login           | 10.21 kB | 
+
+Application bundle generation complete. [0.986 seconds] - 2026-10-26T10:39:01.942Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names           |  Raw size
+styles.css          | styles          |  52.55 kB | 
+main.js             | main            |  18.34 kB | 
+chunk-S4HFIIOA.js   | -               |   9.54 kB | 
+chunk-337CDHHK.js   | -               |   4.53 kB | 
+chunk-T6PEVGVI.js   | -               |   2.18 kB | 
+
+                    | Initial total   |  87.15 kB
+
+Lazy chunk files    | Names           |  Raw size
+chunk-WKLL4ZTW.js   | rooms           | 108.29 kB | 
+chunk-3OMTFGSS.js   | financials      |  57.45 kB | 
+chunk-4CKQYRF2.js   | tenancies       |  55.62 kB | 
+chunk-2EATBUMY.js   | complaints      |  38.38 kB | 
+chunk-QJUCID6E.js   | properties      |  31.55 kB | 
+chunk-RHPBUR5F.js   | employees       |  30.76 kB | 
+chunk-7B35HVCN.js   | -               |  28.01 kB | 
+chunk-SNI66MHC.js   | profile         |  15.68 kB | 
+chunk-YTDMMONV.js   | repairs         |  15.22 kB | 
+chunk-3TYLQCQJ.js   | forgot-password |  11.37 kB | 
+chunk-AHDJZPMJ.js   | login           |  10.21 kB | 
+chunk-7IHCFX2R.js   | dashboard       |   9.43 kB | 
+chunk-CWDA7DPC.js   | -               |   4.71 kB | 
+chunk-ZL3WQUPJ.js   | invoices        |   3.49 kB | 
+chunk-ANP2CUFB.js   | -               |   2.43 kB | 
+...and 2 more lazy chunks files. Use "--verbose" to show all the files.
+
+Application bundle generation complete. [0.586 seconds] - 2026-10-26T10:39:02.533Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names     | Raw size
+main.js             | main      | 18.34 kB | 
+
+Lazy chunk files    | Names     | Raw size
+chunk-MYERICGC.js   | tenancies | 56.60 kB | 
+
+Application bundle generation complete. [0.644 seconds] - 2026-10-26T10:42:30.494Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names           |  Raw size
+styles.css          | styles          |  52.55 kB | 
+main.js             | main            |  18.34 kB | 
+chunk-S4HFIIOA.js   | -               |   9.54 kB | 
+chunk-337CDHHK.js   | -               |   4.53 kB | 
+chunk-T6PEVGVI.js   | -               |   2.18 kB | 
+
+                    | Initial total   |  87.15 kB
+
+Lazy chunk files    | Names           |  Raw size
+chunk-WKLL4ZTW.js   | rooms           | 108.29 kB | 
+chunk-3OMTFGSS.js   | financials      |  57.45 kB | 
+chunk-MYERICGC.js   | tenancies       |  56.60 kB | 
+chunk-2EATBUMY.js   | complaints      |  38.38 kB | 
+chunk-QJUCID6E.js   | properties      |  31.55 kB | 
+chunk-RHPBUR5F.js   | employees       |  30.76 kB | 
+chunk-7B35HVCN.js   | -               |  28.01 kB | 
+chunk-SNI66MHC.js   | profile         |  15.68 kB | 
+chunk-YTDMMONV.js   | repairs         |  15.22 kB | 
+chunk-3TYLQCQJ.js   | forgot-password |  11.37 kB | 
+chunk-AHDJZPMJ.js   | login           |  10.21 kB | 
+chunk-7IHCFX2R.js   | dashboard       |   9.43 kB | 
+chunk-CWDA7DPC.js   | -               |   4.71 kB | 
+chunk-ZL3WQUPJ.js   | invoices        |   3.49 kB | 
+chunk-ANP2CUFB.js   | -               |   2.43 kB | 
+...and 2 more lazy chunks files. Use "--verbose" to show all the files.
+
+Application bundle generation complete. [0.678 seconds] - 2026-10-26T10:42:51.423Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names     | Raw size
+main.js             | main      | 18.34 kB | 
+
+Lazy chunk files    | Names     | Raw size
+chunk-7TMCKD2C.js   | tenancies | 55.83 kB | 
+
+Application bundle generation complete. [0.885 seconds] - 2026-10-26T10:44:38.685Z
+
+Component update sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names           |  Raw size
+styles.css          | styles          |  52.55 kB | 
+main.js             | main            |  18.34 kB | 
+chunk-S4HFIIOA.js   | -               |   9.54 kB | 
+chunk-337CDHHK.js   | -               |   4.53 kB | 
+chunk-T6PEVGVI.js   | -               |   2.18 kB | 
+
+                    | Initial total   |  87.15 kB
+
+Lazy chunk files    | Names           |  Raw size
+chunk-WKLL4ZTW.js   | rooms           | 108.29 kB | 
+chunk-3OMTFGSS.js   | financials      |  57.45 kB | 
+chunk-7TMCKD2C.js   | tenancies       |  55.83 kB | 
+chunk-2EATBUMY.js   | complaints      |  38.38 kB | 
+chunk-QJUCID6E.js   | properties      |  31.55 kB | 
+chunk-RHPBUR5F.js   | employees       |  30.76 kB | 
+chunk-7B35HVCN.js   | -               |  28.01 kB | 
+chunk-SNI66MHC.js   | profile         |  15.68 kB | 
+chunk-YTDMMONV.js   | repairs         |  15.22 kB | 
+chunk-3TYLQCQJ.js   | forgot-password |  11.37 kB | 
+chunk-AHDJZPMJ.js   | login           |  10.21 kB | 
+chunk-7IHCFX2R.js   | dashboard       |   9.43 kB | 
+chunk-CWDA7DPC.js   | -               |   4.71 kB | 
+chunk-ZL3WQUPJ.js   | invoices        |   3.49 kB | 
+chunk-ANP2CUFB.js   | -               |   2.43 kB | 
+...and 2 more lazy chunks files. Use "--verbose" to show all the files.
+
+Application bundle generation complete. [0.870 seconds] - 2026-10-26T10:44:44.175Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names     | Raw size
+main.js             | main      | 18.34 kB | 
+
+Lazy chunk files    | Names     | Raw size
+chunk-4CKQYRF2.js   | tenancies | 55.62 kB | 
+
+Application bundle generation complete. [0.715 seconds] - 2026-10-26T10:44:45.623Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names           |  Raw size
+styles.css          | styles          |  52.55 kB | 
+main.js             | main            |  18.34 kB | 
+chunk-S4HFIIOA.js   | -               |   9.54 kB | 
+chunk-337CDHHK.js   | -               |   4.53 kB | 
+chunk-T6PEVGVI.js   | -               |   2.18 kB | 
+
+                    | Initial total   |  87.15 kB
+
+Lazy chunk files    | Names           |  Raw size
+chunk-WKLL4ZTW.js   | rooms           | 108.29 kB | 
+chunk-3OMTFGSS.js   | financials      |  57.45 kB | 
+chunk-4CKQYRF2.js   | tenancies       |  55.62 kB | 
+chunk-2EATBUMY.js   | complaints      |  38.38 kB | 
+chunk-QJUCID6E.js   | properties      |  31.55 kB | 
+chunk-RHPBUR5F.js   | employees       |  30.76 kB | 
+chunk-7B35HVCN.js   | -               |  28.01 kB | 
+chunk-SNI66MHC.js   | profile         |  15.68 kB | 
+chunk-YTDMMONV.js   | repairs         |  15.22 kB | 
+chunk-3TYLQCQJ.js   | forgot-password |  11.37 kB | 
+chunk-AHDJZPMJ.js   | login           |  10.21 kB | 
+chunk-7IHCFX2R.js   | dashboard       |   9.43 kB | 
+chunk-CWDA7DPC.js   | -               |   4.71 kB | 
+chunk-ZL3WQUPJ.js   | invoices        |   3.49 kB | 
+chunk-ANP2CUFB.js   | -               |   2.43 kB | 
+...and 2 more lazy chunks files. Use "--verbose" to show all the files.
+
+Application bundle generation complete. [0.358 seconds] - 2026-10-26T10:45:26.500Z
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names           |  Raw size
+main.js             | main            |  18.34 kB | 
+chunk-MEVSZCUI.js   | -               |   9.54 kB | 
+chunk-7TOAYQHU.js   | -               |   4.53 kB | 
+chunk-2DE3NDY6.js   | -               |   2.18 kB | 
+
+Lazy chunk files    | Names           |  Raw size
+chunk-UMCGEHNA.js   | rooms           | 108.29 kB | 
+chunk-JZQSCF46.js   | financials      |  58.61 kB | 
+chunk-TT62E66P.js   | tenancies       |  55.62 kB | 
+chunk-C37PYWI2.js   | complaints      |  38.38 kB | 
+chunk-UJXSTUHP.js   | properties      |  31.55 kB | 
+chunk-HZZ64CTB.js   | employees       |  30.76 kB | 
+chunk-WIFUUQMJ.js   | -               |  28.01 kB | 
+chunk-LQCRUKXN.js   | profile         |  15.68 kB | 
+chunk-4HXDWRCI.js   | repairs         |  15.22 kB | 
+chunk-5HTC7M66.js   | forgot-password |  11.37 kB | 
+chunk-6MVECLYR.js   | login           |  10.21 kB | 
+chunk-2R3A3T6Q.js   | dashboard       |   9.43 kB | 
+chunk-GF45JXPH.js   | invoices        |   3.49 kB | 
+
+Application bundle generation complete. [3.779 seconds] - 2026-10-28T07:26:37.501Z
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names           |  Raw size
+styles.css          | styles          |  52.55 kB | 
+main.js             | main            |  18.34 kB | 
+chunk-MEVSZCUI.js   | -               |   9.54 kB | 
+chunk-7TOAYQHU.js   | -               |   4.53 kB | 
+chunk-2DE3NDY6.js   | -               |   2.18 kB | 
+
+                    | Initial total   |  87.15 kB
+
+Lazy chunk files    | Names           |  Raw size
+chunk-UMCGEHNA.js   | rooms           | 108.29 kB | 
+chunk-JZQSCF46.js   | financials      |  58.61 kB | 
+chunk-TT62E66P.js   | tenancies       |  55.62 kB | 
+chunk-C37PYWI2.js   | complaints      |  38.38 kB | 
+chunk-UJXSTUHP.js   | properties      |  31.55 kB | 
+chunk-HZZ64CTB.js   | employees       |  30.76 kB | 
+chunk-WIFUUQMJ.js   | -               |  28.01 kB | 
+chunk-LQCRUKXN.js   | profile         |  15.68 kB | 
+chunk-4HXDWRCI.js   | repairs         |  15.22 kB | 
+chunk-5HTC7M66.js   | forgot-password |  11.37 kB | 
+chunk-6MVECLYR.js   | login           |  10.21 kB | 
+chunk-2R3A3T6Q.js   | dashboard       |   9.43 kB | 
+chunk-CWDA7DPC.js   | -               |   4.71 kB | 
+chunk-GF45JXPH.js   | invoices        |   3.49 kB | 
+chunk-ANP2CUFB.js   | -               |   2.43 kB | 
+...and 2 more lazy chunks files. Use "--verbose" to show all the files.
+
+Application bundle generation complete. [1.017 seconds] - 2026-10-28T07:26:38.534Z
+

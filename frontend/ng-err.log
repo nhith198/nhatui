@@ -1,0 +1,1983 @@
+[2m11:40:45 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m11:40:47 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m12:34:06 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m12:35:40 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m12:47:47 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m12:49:22 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m12:50:29 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'number' is not assignable to type 'string'.[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/rooms.ts:80:139:
+[37m      80 │ ...cancelForm.refund" required mi[32mn="[37m0" [max]="target?.reservedDepo...
+         ╵                                  [32m~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'number' is not assignable to type 'string'.[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/rooms.ts:80:139:
+[37m      80 │ ...cancelForm.refund" required mi[32mn="[37m0" [max]="target?.reservedDepo...
+         ╵                                  [32m~~~[0m
+
+
+[2m12:54:22 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m12:54:27 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'number' is not assignable to type 'string'.[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/rooms.ts:80:139:
+[37m      80 │ ...cancelForm.refund" required mi[32mn="[37m0" [max]="target?.reservedDepo...
+         ╵                                  [32m~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'number' is not assignable to type 'string'.[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/rooms.ts:80:139:
+[37m      80 │ ...cancelForm.refund" required mi[32mn="[37m0" [max]="target?.reservedDepo...
+         ╵                                  [32m~~~[0m
+
+
+[2m12:56:50 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m1:12:07 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'number' is not assignable to type 'string'.[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/rooms.ts:80:139:
+[37m      80 │ ...cancelForm.refund" required mi[32mn="[37m0" [max]="target?.reservedDepo...
+         ╵                                  [32m~~~[0m
+
+
+[2m1:22:00 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m1:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m1:22:03 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m1:22:05 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m1:31:34 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR TypeError: Failed to fetch dynamically imported module: http://localhost:4200/chunk-ZMCVWKQQ.js
+[2m1:31:36 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR TypeError: Failed to fetch dynamically imported module: http://localhost:4200/chunk-ZMCVWKQQ.js
+[2m1:31:37 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR TypeError: Failed to fetch dynamically imported module: http://localhost:4200/chunk-ZMCVWKQQ.js
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: CurrencyPipe is not used within the template of Financials[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:16:12:
+[37m      16 │   imports: [[32mCurrencyPipe[37m, DatePipe, FormsModule, Icon, VndInput, M...
+         ╵             [32m~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: DatePipe is not used within the template of Financials[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:16:26:
+[37m      16 │   imports: [CurrencyPipe, [32mDatePipe[37m, FormsModule, Icon, VndInput, M...
+         ╵                           [32m~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Financials[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:16:49:
+[37m      16 │ ...rrencyPipe, DatePipe, FormsModule, [32mIcon[37m, VndInput, MonthYearPipe],
+         ╵                                       [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: VndInput is not used within the template of Financials[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:16:55:
+[37m      16 │ ...rrencyPipe, DatePipe, FormsModule, Icon, [32mVndInput[37m, MonthYearPipe],
+         ╵                                             [32m~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: MonthYearPipe is not used within the template of Financials[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:16:65:
+[37m      16 │ ...rrencyPipe, DatePipe, FormsModule, Icon, VndInput, [32mMonthYearPipe[37m],
+         ╵                                                       [32m~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unclosed block "if"[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:55:4:
+[37m      55 │     [32m@if (report(); as data) {[37m
+         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: CurrencyPipe is not used within the template of Financials[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:16:12:
+[37m      16 │   imports: [[32mCurrencyPipe[37m, DatePipe, FormsModule, Icon, VndInput, M...
+         ╵             [32m~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: DatePipe is not used within the template of Financials[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:16:26:
+[37m      16 │   imports: [CurrencyPipe, [32mDatePipe[37m, FormsModule, Icon, VndInput, M...
+         ╵                           [32m~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Financials[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:16:49:
+[37m      16 │ ...rrencyPipe, DatePipe, FormsModule, [32mIcon[37m, VndInput, MonthYearPipe],
+         ╵                                       [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: VndInput is not used within the template of Financials[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:16:55:
+[37m      16 │ ...rrencyPipe, DatePipe, FormsModule, Icon, [32mVndInput[37m, MonthYearPipe],
+         ╵                                             [32m~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: MonthYearPipe is not used within the template of Financials[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:16:65:
+[37m      16 │ ...rrencyPipe, DatePipe, FormsModule, Icon, VndInput, [32mMonthYearPipe[37m],
+         ╵                                                       [32m~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unclosed block "if"[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:55:4:
+[37m      55 │     [32m@if (report(); as data) {[37m
+         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: CurrencyPipe is not used within the template of Financials[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:16:12:
+[37m      16 │   imports: [[32mCurrencyPipe[37m, DatePipe, FormsModule, Icon, VndInput, M...
+         ╵             [32m~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: DatePipe is not used within the template of Financials[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:16:26:
+[37m      16 │   imports: [CurrencyPipe, [32mDatePipe[37m, FormsModule, Icon, VndInput, M...
+         ╵                           [32m~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Financials[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:16:49:
+[37m      16 │ ...rrencyPipe, DatePipe, FormsModule, [32mIcon[37m, VndInput, MonthYearPipe],
+         ╵                                       [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: VndInput is not used within the template of Financials[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:16:55:
+[37m      16 │ ...rrencyPipe, DatePipe, FormsModule, Icon, [32mVndInput[37m, MonthYearPipe],
+         ╵                                             [32m~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: MonthYearPipe is not used within the template of Financials[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:16:65:
+[37m      16 │ ...rrencyPipe, DatePipe, FormsModule, Icon, VndInput, [32mMonthYearPipe[37m],
+         ╵                                                       [32m~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unclosed block "if"[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:55:4:
+[37m      55 │     [32m@if (report(); as data) {[37m
+         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[2m1:50:49 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mJIT compilation failed for component class {
+  api = inject(Api);
+  auth = inject(Auth);
+  alerts = inject(Alerts);
+  editor = viewChild.required(
+    "editor",
+    ...ngDevMode ? [{ debugName: "editor" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  report = signal(
+    null,
+    ...ngDevMode ? [{ debugName: "report" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  collapsed = signal(
+    { expenses: false, monthly: true, deposits: false, history: true },
+    ...ngDevMode ? [{ debugName: "collapsed" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editing = signal(
+    false,
+    ...ngDevMode ? [{ debugName: "editing" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editId = "";
+  form = this.newForm();
+  constructor() {
+    effect(() => {
+      this.api.pid();
+      this.api.month();
+      this.load();
+    });
+  }
+  newForm() {
+    const propertyId = this.auth?.isEmployee?.() ? this.api?.pid?.() || this.api?.properties?.()[0]?.id || "" : this.api?.pid?.() ?? "";
+    return {
+      propertyId,
+      category: "Operating",
+      description: "",
+      recipient: "",
+      amount: 0,
+      isMonthly: false,
+      date: `${this.api?.month?.() ?? (/* @__PURE__ */ new Date()).toISOString().slice(0, 7)}-01`
+    };
+  }
+  toggle(section) {
+    this.collapsed.update((state) => __spreadProps(__spreadValues({}, state), { [section]: !state[section] }));
+  }
+  load() {
+    this.api.financials().subscribe({ next: (result) => this.report.set(result), error: (error) => this.showError(error) });
+  }
+  showError(error) {
+    if (error?.status === 404 && !error?.error?.message) {
+      this.api.say("API ch\u01B0a \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt. H\xE3y kh\u1EDFi \u0111\u1ED9ng l\u1EA1i backend sau khi x\xE1c nh\u1EADn database \u0111\u1EC3 \xE1p d\u1EE5ng migration.");
+      return;
+    }
+    this.api.say(this.api.errorMessage(error));
+  }
+  isHoldExpired(receipt) {
+    return !receipt.refundedAt && receipt.holdUntil < (/* @__PURE__ */ new Date()).toLocaleDateString("en-CA");
+  }
+  salesTotal() {
+    return this.report()?.expenseEntries.filter((entry) => entry.category === "Sales").reduce((sum, entry) => sum + entry.amount, 0) ?? 0;
+  }
+  categoryLabel(category) {
+    return category === "Sales" ? "Sale ph\xF2ng" : category === "Operating" ? "V\u1EADn h\xE0nh" : "Kh\xE1c";
+  }
+  add() {
+    this.editId = "";
+    this.form = this.newForm();
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  edit(entry) {
+    this.editId = entry.id;
+    this.form = {
+      propertyId: entry.propertyId ?? "",
+      category: entry.category,
+      description: entry.description,
+      recipient: entry.recipient ?? "",
+      amount: entry.amount,
+      date: entry.date,
+      isMonthly: entry.isMonthly
+    };
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  cancel() {
+    this.editor().nativeElement.close();
+    this.editing.set(false);
+  }
+  save() {
+    if (!this.form.description.trim() || !this.form.date || this.form.amount <= 0)
+      return this.api.say("Vui l\xF2ng nh\u1EADp \u0111\u1EE7 n\u1ED9i dung, ng\xE0y v\xE0 s\u1ED1 ti\u1EC1n h\u1EE3p l\u1EC7");
+    const body = __spreadProps(__spreadValues({}, this.form), { propertyId: this.form.propertyId || null, recipient: this.form.recipient.trim() || null });
+    this.api.saveExpense(body, this.editId || void 0).subscribe({
+      next: () => {
+        this.cancel();
+        this.load();
+        this.alerts.success(this.editId ? "\u0110\xE3 c\u1EADp nh\u1EADt kho\u1EA3n chi" : "\u0110\xE3 th\xEAm kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+  async remove(entry) {
+    if (!await this.alerts.confirm("X\xF3a kho\u1EA3n chi?", entry.description, "X\xF3a", true))
+      return;
+    this.api.deleteExpense(entry.id).subscribe({
+      next: () => {
+        this.load();
+        this.alerts.success("\u0110\xE3 x\xF3a kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+}
+[2m1:50:49 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR Error: The component 'Financials' needs to be compiled using the JIT compiler, but '@angular/compiler' is not available.
+
+JIT compilation is discouraged for production use-cases! Consider using AOT mode instead.
+Alternatively, the JIT compiler should be loaded by bootstrapping using '@angular/platform-browser-dynamic' or '@angular/platform-server',
+or manually provide the compiler with 'import "@angular/compiler";' before bootstrapping.
+    at getCompilerFacade (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:3968:9)
+    at Financials.get (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:18611:22)
+    at getComponentDef (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:904:13)
+    at isStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:923:14)
+    at assertStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2291:25)
+    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2807:56
+    at async Promise.all (index 0)
+[2m1:51:01 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mJIT compilation failed for component class {
+  api = inject(Api);
+  auth = inject(Auth);
+  alerts = inject(Alerts);
+  editor = viewChild.required(
+    "editor",
+    ...ngDevMode ? [{ debugName: "editor" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  report = signal(
+    null,
+    ...ngDevMode ? [{ debugName: "report" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  collapsed = signal(
+    { expenses: false, monthly: true, deposits: false, history: true },
+    ...ngDevMode ? [{ debugName: "collapsed" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editing = signal(
+    false,
+    ...ngDevMode ? [{ debugName: "editing" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editId = "";
+  form = this.newForm();
+  constructor() {
+    effect(() => {
+      this.api.pid();
+      this.api.month();
+      this.load();
+    });
+  }
+  newForm() {
+    const propertyId = this.auth?.isEmployee?.() ? this.api?.pid?.() || this.api?.properties?.()[0]?.id || "" : this.api?.pid?.() ?? "";
+    return {
+      propertyId,
+      category: "Operating",
+      description: "",
+      recipient: "",
+      amount: 0,
+      isMonthly: false,
+      date: `${this.api?.month?.() ?? (/* @__PURE__ */ new Date()).toISOString().slice(0, 7)}-01`
+    };
+  }
+  toggle(section) {
+    this.collapsed.update((state) => __spreadProps(__spreadValues({}, state), { [section]: !state[section] }));
+  }
+  load() {
+    this.api.financials().subscribe({ next: (result) => this.report.set(result), error: (error) => this.showError(error) });
+  }
+  showError(error) {
+    if (error?.status === 404 && !error?.error?.message) {
+      this.api.say("API ch\u01B0a \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt. H\xE3y kh\u1EDFi \u0111\u1ED9ng l\u1EA1i backend sau khi x\xE1c nh\u1EADn database \u0111\u1EC3 \xE1p d\u1EE5ng migration.");
+      return;
+    }
+    this.api.say(this.api.errorMessage(error));
+  }
+  isHoldExpired(receipt) {
+    return !receipt.refundedAt && receipt.holdUntil < (/* @__PURE__ */ new Date()).toLocaleDateString("en-CA");
+  }
+  salesTotal() {
+    return this.report()?.expenseEntries.filter((entry) => entry.category === "Sales").reduce((sum, entry) => sum + entry.amount, 0) ?? 0;
+  }
+  categoryLabel(category) {
+    return category === "Sales" ? "Sale ph\xF2ng" : category === "Operating" ? "V\u1EADn h\xE0nh" : "Kh\xE1c";
+  }
+  add() {
+    this.editId = "";
+    this.form = this.newForm();
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  edit(entry) {
+    this.editId = entry.id;
+    this.form = {
+      propertyId: entry.propertyId ?? "",
+      category: entry.category,
+      description: entry.description,
+      recipient: entry.recipient ?? "",
+      amount: entry.amount,
+      date: entry.date,
+      isMonthly: entry.isMonthly
+    };
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  cancel() {
+    this.editor().nativeElement.close();
+    this.editing.set(false);
+  }
+  save() {
+    if (!this.form.description.trim() || !this.form.date || this.form.amount <= 0)
+      return this.api.say("Vui l\xF2ng nh\u1EADp \u0111\u1EE7 n\u1ED9i dung, ng\xE0y v\xE0 s\u1ED1 ti\u1EC1n h\u1EE3p l\u1EC7");
+    const body = __spreadProps(__spreadValues({}, this.form), { propertyId: this.form.propertyId || null, recipient: this.form.recipient.trim() || null });
+    this.api.saveExpense(body, this.editId || void 0).subscribe({
+      next: () => {
+        this.cancel();
+        this.load();
+        this.alerts.success(this.editId ? "\u0110\xE3 c\u1EADp nh\u1EADt kho\u1EA3n chi" : "\u0110\xE3 th\xEAm kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+  async remove(entry) {
+    if (!await this.alerts.confirm("X\xF3a kho\u1EA3n chi?", entry.description, "X\xF3a", true))
+      return;
+    this.api.deleteExpense(entry.id).subscribe({
+      next: () => {
+        this.load();
+        this.alerts.success("\u0110\xE3 x\xF3a kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+}
+[2m1:51:01 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR Error: The component 'Financials' needs to be compiled using the JIT compiler, but '@angular/compiler' is not available.
+
+JIT compilation is discouraged for production use-cases! Consider using AOT mode instead.
+Alternatively, the JIT compiler should be loaded by bootstrapping using '@angular/platform-browser-dynamic' or '@angular/platform-server',
+or manually provide the compiler with 'import "@angular/compiler";' before bootstrapping.
+    at getCompilerFacade (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:3968:9)
+    at Financials.get (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:18611:22)
+    at getComponentDef (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:904:13)
+    at isStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:923:14)
+    at assertStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2291:25)
+    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2807:56
+    at async Promise.all (index 0)
+[2m1:51:03 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mJIT compilation failed for component class {
+  api = inject(Api);
+  auth = inject(Auth);
+  alerts = inject(Alerts);
+  editor = viewChild.required(
+    "editor",
+    ...ngDevMode ? [{ debugName: "editor" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  report = signal(
+    null,
+    ...ngDevMode ? [{ debugName: "report" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  collapsed = signal(
+    { expenses: false, monthly: true, deposits: false, history: true },
+    ...ngDevMode ? [{ debugName: "collapsed" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editing = signal(
+    false,
+    ...ngDevMode ? [{ debugName: "editing" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editId = "";
+  form = this.newForm();
+  constructor() {
+    effect(() => {
+      this.api.pid();
+      this.api.month();
+      this.load();
+    });
+  }
+  newForm() {
+    const propertyId = this.auth?.isEmployee?.() ? this.api?.pid?.() || this.api?.properties?.()[0]?.id || "" : this.api?.pid?.() ?? "";
+    return {
+      propertyId,
+      category: "Operating",
+      description: "",
+      recipient: "",
+      amount: 0,
+      isMonthly: false,
+      date: `${this.api?.month?.() ?? (/* @__PURE__ */ new Date()).toISOString().slice(0, 7)}-01`
+    };
+  }
+  toggle(section) {
+    this.collapsed.update((state) => __spreadProps(__spreadValues({}, state), { [section]: !state[section] }));
+  }
+  load() {
+    this.api.financials().subscribe({ next: (result) => this.report.set(result), error: (error) => this.showError(error) });
+  }
+  showError(error) {
+    if (error?.status === 404 && !error?.error?.message) {
+      this.api.say("API ch\u01B0a \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt. H\xE3y kh\u1EDFi \u0111\u1ED9ng l\u1EA1i backend sau khi x\xE1c nh\u1EADn database \u0111\u1EC3 \xE1p d\u1EE5ng migration.");
+      return;
+    }
+    this.api.say(this.api.errorMessage(error));
+  }
+  isHoldExpired(receipt) {
+    return !receipt.refundedAt && receipt.holdUntil < (/* @__PURE__ */ new Date()).toLocaleDateString("en-CA");
+  }
+  salesTotal() {
+    return this.report()?.expenseEntries.filter((entry) => entry.category === "Sales").reduce((sum, entry) => sum + entry.amount, 0) ?? 0;
+  }
+  categoryLabel(category) {
+    return category === "Sales" ? "Sale ph\xF2ng" : category === "Operating" ? "V\u1EADn h\xE0nh" : "Kh\xE1c";
+  }
+  add() {
+    this.editId = "";
+    this.form = this.newForm();
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  edit(entry) {
+    this.editId = entry.id;
+    this.form = {
+      propertyId: entry.propertyId ?? "",
+      category: entry.category,
+      description: entry.description,
+      recipient: entry.recipient ?? "",
+      amount: entry.amount,
+      date: entry.date,
+      isMonthly: entry.isMonthly
+    };
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  cancel() {
+    this.editor().nativeElement.close();
+    this.editing.set(false);
+  }
+  save() {
+    if (!this.form.description.trim() || !this.form.date || this.form.amount <= 0)
+      return this.api.say("Vui l\xF2ng nh\u1EADp \u0111\u1EE7 n\u1ED9i dung, ng\xE0y v\xE0 s\u1ED1 ti\u1EC1n h\u1EE3p l\u1EC7");
+    const body = __spreadProps(__spreadValues({}, this.form), { propertyId: this.form.propertyId || null, recipient: this.form.recipient.trim() || null });
+    this.api.saveExpense(body, this.editId || void 0).subscribe({
+      next: () => {
+        this.cancel();
+        this.load();
+        this.alerts.success(this.editId ? "\u0110\xE3 c\u1EADp nh\u1EADt kho\u1EA3n chi" : "\u0110\xE3 th\xEAm kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+  async remove(entry) {
+    if (!await this.alerts.confirm("X\xF3a kho\u1EA3n chi?", entry.description, "X\xF3a", true))
+      return;
+    this.api.deleteExpense(entry.id).subscribe({
+      next: () => {
+        this.load();
+        this.alerts.success("\u0110\xE3 x\xF3a kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+}
+[2m1:51:03 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR Error: The component 'Financials' needs to be compiled using the JIT compiler, but '@angular/compiler' is not available.
+
+JIT compilation is discouraged for production use-cases! Consider using AOT mode instead.
+Alternatively, the JIT compiler should be loaded by bootstrapping using '@angular/platform-browser-dynamic' or '@angular/platform-server',
+or manually provide the compiler with 'import "@angular/compiler";' before bootstrapping.
+    at getCompilerFacade (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:3968:9)
+    at Financials.get (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:18611:22)
+    at getComponentDef (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:904:13)
+    at isStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:923:14)
+    at assertStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2291:25)
+    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2807:56
+    at async Promise.all (index 0)
+[2m1:51:06 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mJIT compilation failed for component class {
+  api = inject(Api);
+  auth = inject(Auth);
+  alerts = inject(Alerts);
+  editor = viewChild.required(
+    "editor",
+    ...ngDevMode ? [{ debugName: "editor" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  report = signal(
+    null,
+    ...ngDevMode ? [{ debugName: "report" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  collapsed = signal(
+    { expenses: false, monthly: true, deposits: false, history: true },
+    ...ngDevMode ? [{ debugName: "collapsed" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editing = signal(
+    false,
+    ...ngDevMode ? [{ debugName: "editing" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editId = "";
+  form = this.newForm();
+  constructor() {
+    effect(() => {
+      this.api.pid();
+      this.api.month();
+      this.load();
+    });
+  }
+  newForm() {
+    const propertyId = this.auth?.isEmployee?.() ? this.api?.pid?.() || this.api?.properties?.()[0]?.id || "" : this.api?.pid?.() ?? "";
+    return {
+      propertyId,
+      category: "Operating",
+      description: "",
+      recipient: "",
+      amount: 0,
+      isMonthly: false,
+      date: `${this.api?.month?.() ?? (/* @__PURE__ */ new Date()).toISOString().slice(0, 7)}-01`
+    };
+  }
+  toggle(section) {
+    this.collapsed.update((state) => __spreadProps(__spreadValues({}, state), { [section]: !state[section] }));
+  }
+  load() {
+    this.api.financials().subscribe({ next: (result) => this.report.set(result), error: (error) => this.showError(error) });
+  }
+  showError(error) {
+    if (error?.status === 404 && !error?.error?.message) {
+      this.api.say("API ch\u01B0a \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt. H\xE3y kh\u1EDFi \u0111\u1ED9ng l\u1EA1i backend sau khi x\xE1c nh\u1EADn database \u0111\u1EC3 \xE1p d\u1EE5ng migration.");
+      return;
+    }
+    this.api.say(this.api.errorMessage(error));
+  }
+  isHoldExpired(receipt) {
+    return !receipt.refundedAt && receipt.holdUntil < (/* @__PURE__ */ new Date()).toLocaleDateString("en-CA");
+  }
+  salesTotal() {
+    return this.report()?.expenseEntries.filter((entry) => entry.category === "Sales").reduce((sum, entry) => sum + entry.amount, 0) ?? 0;
+  }
+  categoryLabel(category) {
+    return category === "Sales" ? "Sale ph\xF2ng" : category === "Operating" ? "V\u1EADn h\xE0nh" : "Kh\xE1c";
+  }
+  add() {
+    this.editId = "";
+    this.form = this.newForm();
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  edit(entry) {
+    this.editId = entry.id;
+    this.form = {
+      propertyId: entry.propertyId ?? "",
+      category: entry.category,
+      description: entry.description,
+      recipient: entry.recipient ?? "",
+      amount: entry.amount,
+      date: entry.date,
+      isMonthly: entry.isMonthly
+    };
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  cancel() {
+    this.editor().nativeElement.close();
+    this.editing.set(false);
+  }
+  save() {
+    if (!this.form.description.trim() || !this.form.date || this.form.amount <= 0)
+      return this.api.say("Vui l\xF2ng nh\u1EADp \u0111\u1EE7 n\u1ED9i dung, ng\xE0y v\xE0 s\u1ED1 ti\u1EC1n h\u1EE3p l\u1EC7");
+    const body = __spreadProps(__spreadValues({}, this.form), { propertyId: this.form.propertyId || null, recipient: this.form.recipient.trim() || null });
+    this.api.saveExpense(body, this.editId || void 0).subscribe({
+      next: () => {
+        this.cancel();
+        this.load();
+        this.alerts.success(this.editId ? "\u0110\xE3 c\u1EADp nh\u1EADt kho\u1EA3n chi" : "\u0110\xE3 th\xEAm kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+  async remove(entry) {
+    if (!await this.alerts.confirm("X\xF3a kho\u1EA3n chi?", entry.description, "X\xF3a", true))
+      return;
+    this.api.deleteExpense(entry.id).subscribe({
+      next: () => {
+        this.load();
+        this.alerts.success("\u0110\xE3 x\xF3a kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+}
+[2m1:51:06 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR Error: The component 'Financials' needs to be compiled using the JIT compiler, but '@angular/compiler' is not available.
+
+JIT compilation is discouraged for production use-cases! Consider using AOT mode instead.
+Alternatively, the JIT compiler should be loaded by bootstrapping using '@angular/platform-browser-dynamic' or '@angular/platform-server',
+or manually provide the compiler with 'import "@angular/compiler";' before bootstrapping.
+    at getCompilerFacade (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:3968:9)
+    at Financials.get (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:18611:22)
+    at getComponentDef (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:904:13)
+    at isStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:923:14)
+    at assertStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2291:25)
+    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2807:56
+    at async Promise.all (index 0)
+[2m1:51:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mJIT compilation failed for component class {
+  api = inject(Api);
+  auth = inject(Auth);
+  alerts = inject(Alerts);
+  editor = viewChild.required(
+    "editor",
+    ...ngDevMode ? [{ debugName: "editor" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  report = signal(
+    null,
+    ...ngDevMode ? [{ debugName: "report" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  collapsed = signal(
+    { expenses: false, monthly: true, deposits: false, history: true },
+    ...ngDevMode ? [{ debugName: "collapsed" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editing = signal(
+    false,
+    ...ngDevMode ? [{ debugName: "editing" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editId = "";
+  form = this.newForm();
+  constructor() {
+    effect(() => {
+      this.api.pid();
+      this.api.month();
+      this.load();
+    });
+  }
+  newForm() {
+    const propertyId = this.auth?.isEmployee?.() ? this.api?.pid?.() || this.api?.properties?.()[0]?.id || "" : this.api?.pid?.() ?? "";
+    return {
+      propertyId,
+      category: "Operating",
+      description: "",
+      recipient: "",
+      amount: 0,
+      isMonthly: false,
+      date: `${this.api?.month?.() ?? (/* @__PURE__ */ new Date()).toISOString().slice(0, 7)}-01`
+    };
+  }
+  toggle(section) {
+    this.collapsed.update((state) => __spreadProps(__spreadValues({}, state), { [section]: !state[section] }));
+  }
+  load() {
+    this.api.financials().subscribe({ next: (result) => this.report.set(result), error: (error) => this.showError(error) });
+  }
+  showError(error) {
+    if (error?.status === 404 && !error?.error?.message) {
+      this.api.say("API ch\u01B0a \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt. H\xE3y kh\u1EDFi \u0111\u1ED9ng l\u1EA1i backend sau khi x\xE1c nh\u1EADn database \u0111\u1EC3 \xE1p d\u1EE5ng migration.");
+      return;
+    }
+    this.api.say(this.api.errorMessage(error));
+  }
+  isHoldExpired(receipt) {
+    return !receipt.refundedAt && receipt.holdUntil < (/* @__PURE__ */ new Date()).toLocaleDateString("en-CA");
+  }
+  salesTotal() {
+    return this.report()?.expenseEntries.filter((entry) => entry.category === "Sales").reduce((sum, entry) => sum + entry.amount, 0) ?? 0;
+  }
+  categoryLabel(category) {
+    return category === "Sales" ? "Sale ph\xF2ng" : category === "Operating" ? "V\u1EADn h\xE0nh" : "Kh\xE1c";
+  }
+  add() {
+    this.editId = "";
+    this.form = this.newForm();
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  edit(entry) {
+    this.editId = entry.id;
+    this.form = {
+      propertyId: entry.propertyId ?? "",
+      category: entry.category,
+      description: entry.description,
+      recipient: entry.recipient ?? "",
+      amount: entry.amount,
+      date: entry.date,
+      isMonthly: entry.isMonthly
+    };
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  cancel() {
+    this.editor().nativeElement.close();
+    this.editing.set(false);
+  }
+  save() {
+    if (!this.form.description.trim() || !this.form.date || this.form.amount <= 0)
+      return this.api.say("Vui l\xF2ng nh\u1EADp \u0111\u1EE7 n\u1ED9i dung, ng\xE0y v\xE0 s\u1ED1 ti\u1EC1n h\u1EE3p l\u1EC7");
+    const body = __spreadProps(__spreadValues({}, this.form), { propertyId: this.form.propertyId || null, recipient: this.form.recipient.trim() || null });
+    this.api.saveExpense(body, this.editId || void 0).subscribe({
+      next: () => {
+        this.cancel();
+        this.load();
+        this.alerts.success(this.editId ? "\u0110\xE3 c\u1EADp nh\u1EADt kho\u1EA3n chi" : "\u0110\xE3 th\xEAm kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+  async remove(entry) {
+    if (!await this.alerts.confirm("X\xF3a kho\u1EA3n chi?", entry.description, "X\xF3a", true))
+      return;
+    this.api.deleteExpense(entry.id).subscribe({
+      next: () => {
+        this.load();
+        this.alerts.success("\u0110\xE3 x\xF3a kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+}
+[2m1:51:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR Error: The component 'Financials' needs to be compiled using the JIT compiler, but '@angular/compiler' is not available.
+
+JIT compilation is discouraged for production use-cases! Consider using AOT mode instead.
+Alternatively, the JIT compiler should be loaded by bootstrapping using '@angular/platform-browser-dynamic' or '@angular/platform-server',
+or manually provide the compiler with 'import "@angular/compiler";' before bootstrapping.
+    at getCompilerFacade (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:3968:9)
+    at Financials.get (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:18611:22)
+    at getComponentDef (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:904:13)
+    at isStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:923:14)
+    at assertStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2291:25)
+    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2807:56
+    at async Promise.all (index 0)
+[2m1:52:23 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mJIT compilation failed for component class {
+  api = inject(Api);
+  auth = inject(Auth);
+  alerts = inject(Alerts);
+  editor = viewChild.required(
+    "editor",
+    ...ngDevMode ? [{ debugName: "editor" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  report = signal(
+    null,
+    ...ngDevMode ? [{ debugName: "report" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  collapsed = signal(
+    { expenses: false, monthly: true, deposits: false, history: true },
+    ...ngDevMode ? [{ debugName: "collapsed" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editing = signal(
+    false,
+    ...ngDevMode ? [{ debugName: "editing" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editId = "";
+  form = this.newForm();
+  constructor() {
+    effect(() => {
+      this.api.pid();
+      this.api.month();
+      this.load();
+    });
+  }
+  newForm() {
+    const propertyId = this.auth?.isEmployee?.() ? this.api?.pid?.() || this.api?.properties?.()[0]?.id || "" : this.api?.pid?.() ?? "";
+    return {
+      propertyId,
+      category: "Operating",
+      description: "",
+      recipient: "",
+      amount: 0,
+      isMonthly: false,
+      date: `${this.api?.month?.() ?? (/* @__PURE__ */ new Date()).toISOString().slice(0, 7)}-01`
+    };
+  }
+  toggle(section) {
+    this.collapsed.update((state) => __spreadProps(__spreadValues({}, state), { [section]: !state[section] }));
+  }
+  load() {
+    this.api.financials().subscribe({ next: (result) => this.report.set(result), error: (error) => this.showError(error) });
+  }
+  showError(error) {
+    if (error?.status === 404 && !error?.error?.message) {
+      this.api.say("API ch\u01B0a \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt. H\xE3y kh\u1EDFi \u0111\u1ED9ng l\u1EA1i backend sau khi x\xE1c nh\u1EADn database \u0111\u1EC3 \xE1p d\u1EE5ng migration.");
+      return;
+    }
+    this.api.say(this.api.errorMessage(error));
+  }
+  isHoldExpired(receipt) {
+    return !receipt.refundedAt && receipt.holdUntil < (/* @__PURE__ */ new Date()).toLocaleDateString("en-CA");
+  }
+  salesTotal() {
+    return this.report()?.expenseEntries.filter((entry) => entry.category === "Sales").reduce((sum, entry) => sum + entry.amount, 0) ?? 0;
+  }
+  categoryLabel(category) {
+    return category === "Sales" ? "Sale ph\xF2ng" : category === "Operating" ? "V\u1EADn h\xE0nh" : "Kh\xE1c";
+  }
+  add() {
+    this.editId = "";
+    this.form = this.newForm();
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  edit(entry) {
+    this.editId = entry.id;
+    this.form = {
+      propertyId: entry.propertyId ?? "",
+      category: entry.category,
+      description: entry.description,
+      recipient: entry.recipient ?? "",
+      amount: entry.amount,
+      date: entry.date,
+      isMonthly: entry.isMonthly
+    };
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  cancel() {
+    this.editor().nativeElement.close();
+    this.editing.set(false);
+  }
+  save() {
+    if (!this.form.description.trim() || !this.form.date || this.form.amount <= 0)
+      return this.api.say("Vui l\xF2ng nh\u1EADp \u0111\u1EE7 n\u1ED9i dung, ng\xE0y v\xE0 s\u1ED1 ti\u1EC1n h\u1EE3p l\u1EC7");
+    const body = __spreadProps(__spreadValues({}, this.form), { propertyId: this.form.propertyId || null, recipient: this.form.recipient.trim() || null });
+    this.api.saveExpense(body, this.editId || void 0).subscribe({
+      next: () => {
+        this.cancel();
+        this.load();
+        this.alerts.success(this.editId ? "\u0110\xE3 c\u1EADp nh\u1EADt kho\u1EA3n chi" : "\u0110\xE3 th\xEAm kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+  async remove(entry) {
+    if (!await this.alerts.confirm("X\xF3a kho\u1EA3n chi?", entry.description, "X\xF3a", true))
+      return;
+    this.api.deleteExpense(entry.id).subscribe({
+      next: () => {
+        this.load();
+        this.alerts.success("\u0110\xE3 x\xF3a kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+}
+[2m1:52:23 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR Error: The component 'Financials' needs to be compiled using the JIT compiler, but '@angular/compiler' is not available.
+
+JIT compilation is discouraged for production use-cases! Consider using AOT mode instead.
+Alternatively, the JIT compiler should be loaded by bootstrapping using '@angular/platform-browser-dynamic' or '@angular/platform-server',
+or manually provide the compiler with 'import "@angular/compiler";' before bootstrapping.
+    at getCompilerFacade (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:3968:9)
+    at Financials.get (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:18611:22)
+    at getComponentDef (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:904:13)
+    at isStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:923:14)
+    at assertStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2291:25)
+    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2807:56
+    at async Promise.all (index 0)
+[2m1:52:24 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mJIT compilation failed for component class {
+  api = inject(Api);
+  auth = inject(Auth);
+  alerts = inject(Alerts);
+  editor = viewChild.required(
+    "editor",
+    ...ngDevMode ? [{ debugName: "editor" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  report = signal(
+    null,
+    ...ngDevMode ? [{ debugName: "report" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  collapsed = signal(
+    { expenses: false, monthly: true, deposits: false, history: true },
+    ...ngDevMode ? [{ debugName: "collapsed" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editing = signal(
+    false,
+    ...ngDevMode ? [{ debugName: "editing" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editId = "";
+  form = this.newForm();
+  constructor() {
+    effect(() => {
+      this.api.pid();
+      this.api.month();
+      this.load();
+    });
+  }
+  newForm() {
+    const propertyId = this.auth?.isEmployee?.() ? this.api?.pid?.() || this.api?.properties?.()[0]?.id || "" : this.api?.pid?.() ?? "";
+    return {
+      propertyId,
+      category: "Operating",
+      description: "",
+      recipient: "",
+      amount: 0,
+      isMonthly: false,
+      date: `${this.api?.month?.() ?? (/* @__PURE__ */ new Date()).toISOString().slice(0, 7)}-01`
+    };
+  }
+  toggle(section) {
+    this.collapsed.update((state) => __spreadProps(__spreadValues({}, state), { [section]: !state[section] }));
+  }
+  load() {
+    this.api.financials().subscribe({ next: (result) => this.report.set(result), error: (error) => this.showError(error) });
+  }
+  showError(error) {
+    if (error?.status === 404 && !error?.error?.message) {
+      this.api.say("API ch\u01B0a \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt. H\xE3y kh\u1EDFi \u0111\u1ED9ng l\u1EA1i backend sau khi x\xE1c nh\u1EADn database \u0111\u1EC3 \xE1p d\u1EE5ng migration.");
+      return;
+    }
+    this.api.say(this.api.errorMessage(error));
+  }
+  isHoldExpired(receipt) {
+    return !receipt.refundedAt && receipt.holdUntil < (/* @__PURE__ */ new Date()).toLocaleDateString("en-CA");
+  }
+  salesTotal() {
+    return this.report()?.expenseEntries.filter((entry) => entry.category === "Sales").reduce((sum, entry) => sum + entry.amount, 0) ?? 0;
+  }
+  categoryLabel(category) {
+    return category === "Sales" ? "Sale ph\xF2ng" : category === "Operating" ? "V\u1EADn h\xE0nh" : "Kh\xE1c";
+  }
+  add() {
+    this.editId = "";
+    this.form = this.newForm();
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  edit(entry) {
+    this.editId = entry.id;
+    this.form = {
+      propertyId: entry.propertyId ?? "",
+      category: entry.category,
+      description: entry.description,
+      recipient: entry.recipient ?? "",
+      amount: entry.amount,
+      date: entry.date,
+      isMonthly: entry.isMonthly
+    };
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  cancel() {
+    this.editor().nativeElement.close();
+    this.editing.set(false);
+  }
+  save() {
+    if (!this.form.description.trim() || !this.form.date || this.form.amount <= 0)
+      return this.api.say("Vui l\xF2ng nh\u1EADp \u0111\u1EE7 n\u1ED9i dung, ng\xE0y v\xE0 s\u1ED1 ti\u1EC1n h\u1EE3p l\u1EC7");
+    const body = __spreadProps(__spreadValues({}, this.form), { propertyId: this.form.propertyId || null, recipient: this.form.recipient.trim() || null });
+    this.api.saveExpense(body, this.editId || void 0).subscribe({
+      next: () => {
+        this.cancel();
+        this.load();
+        this.alerts.success(this.editId ? "\u0110\xE3 c\u1EADp nh\u1EADt kho\u1EA3n chi" : "\u0110\xE3 th\xEAm kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+  async remove(entry) {
+    if (!await this.alerts.confirm("X\xF3a kho\u1EA3n chi?", entry.description, "X\xF3a", true))
+      return;
+    this.api.deleteExpense(entry.id).subscribe({
+      next: () => {
+        this.load();
+        this.alerts.success("\u0110\xE3 x\xF3a kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+}
+[2m1:52:24 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR Error: The component 'Financials' needs to be compiled using the JIT compiler, but '@angular/compiler' is not available.
+
+JIT compilation is discouraged for production use-cases! Consider using AOT mode instead.
+Alternatively, the JIT compiler should be loaded by bootstrapping using '@angular/platform-browser-dynamic' or '@angular/platform-server',
+or manually provide the compiler with 'import "@angular/compiler";' before bootstrapping.
+    at getCompilerFacade (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:3968:9)
+    at Financials.get (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:18611:22)
+    at getComponentDef (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:904:13)
+    at isStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:923:14)
+    at assertStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2291:25)
+    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2807:56
+    at async Promise.all (index 0)
+[2m1:52:24 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mJIT compilation failed for component class {
+  api = inject(Api);
+  auth = inject(Auth);
+  alerts = inject(Alerts);
+  editor = viewChild.required(
+    "editor",
+    ...ngDevMode ? [{ debugName: "editor" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  report = signal(
+    null,
+    ...ngDevMode ? [{ debugName: "report" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  collapsed = signal(
+    { expenses: false, monthly: true, deposits: false, history: true },
+    ...ngDevMode ? [{ debugName: "collapsed" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editing = signal(
+    false,
+    ...ngDevMode ? [{ debugName: "editing" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editId = "";
+  form = this.newForm();
+  constructor() {
+    effect(() => {
+      this.api.pid();
+      this.api.month();
+      this.load();
+    });
+  }
+  newForm() {
+    const propertyId = this.auth?.isEmployee?.() ? this.api?.pid?.() || this.api?.properties?.()[0]?.id || "" : this.api?.pid?.() ?? "";
+    return {
+      propertyId,
+      category: "Operating",
+      description: "",
+      recipient: "",
+      amount: 0,
+      isMonthly: false,
+      date: `${this.api?.month?.() ?? (/* @__PURE__ */ new Date()).toISOString().slice(0, 7)}-01`
+    };
+  }
+  toggle(section) {
+    this.collapsed.update((state) => __spreadProps(__spreadValues({}, state), { [section]: !state[section] }));
+  }
+  load() {
+    this.api.financials().subscribe({ next: (result) => this.report.set(result), error: (error) => this.showError(error) });
+  }
+  showError(error) {
+    if (error?.status === 404 && !error?.error?.message) {
+      this.api.say("API ch\u01B0a \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt. H\xE3y kh\u1EDFi \u0111\u1ED9ng l\u1EA1i backend sau khi x\xE1c nh\u1EADn database \u0111\u1EC3 \xE1p d\u1EE5ng migration.");
+      return;
+    }
+    this.api.say(this.api.errorMessage(error));
+  }
+  isHoldExpired(receipt) {
+    return !receipt.refundedAt && receipt.holdUntil < (/* @__PURE__ */ new Date()).toLocaleDateString("en-CA");
+  }
+  salesTotal() {
+    return this.report()?.expenseEntries.filter((entry) => entry.category === "Sales").reduce((sum, entry) => sum + entry.amount, 0) ?? 0;
+  }
+  categoryLabel(category) {
+    return category === "Sales" ? "Sale ph\xF2ng" : category === "Operating" ? "V\u1EADn h\xE0nh" : "Kh\xE1c";
+  }
+  add() {
+    this.editId = "";
+    this.form = this.newForm();
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  edit(entry) {
+    this.editId = entry.id;
+    this.form = {
+      propertyId: entry.propertyId ?? "",
+      category: entry.category,
+      description: entry.description,
+      recipient: entry.recipient ?? "",
+      amount: entry.amount,
+      date: entry.date,
+      isMonthly: entry.isMonthly
+    };
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  cancel() {
+    this.editor().nativeElement.close();
+    this.editing.set(false);
+  }
+  save() {
+    if (!this.form.description.trim() || !this.form.date || this.form.amount <= 0)
+      return this.api.say("Vui l\xF2ng nh\u1EADp \u0111\u1EE7 n\u1ED9i dung, ng\xE0y v\xE0 s\u1ED1 ti\u1EC1n h\u1EE3p l\u1EC7");
+    const body = __spreadProps(__spreadValues({}, this.form), { propertyId: this.form.propertyId || null, recipient: this.form.recipient.trim() || null });
+    this.api.saveExpense(body, this.editId || void 0).subscribe({
+      next: () => {
+        this.cancel();
+        this.load();
+        this.alerts.success(this.editId ? "\u0110\xE3 c\u1EADp nh\u1EADt kho\u1EA3n chi" : "\u0110\xE3 th\xEAm kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+  async remove(entry) {
+    if (!await this.alerts.confirm("X\xF3a kho\u1EA3n chi?", entry.description, "X\xF3a", true))
+      return;
+    this.api.deleteExpense(entry.id).subscribe({
+      next: () => {
+        this.load();
+        this.alerts.success("\u0110\xE3 x\xF3a kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+}
+[2m1:52:24 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR Error: The component 'Financials' needs to be compiled using the JIT compiler, but '@angular/compiler' is not available.
+
+JIT compilation is discouraged for production use-cases! Consider using AOT mode instead.
+Alternatively, the JIT compiler should be loaded by bootstrapping using '@angular/platform-browser-dynamic' or '@angular/platform-server',
+or manually provide the compiler with 'import "@angular/compiler";' before bootstrapping.
+    at getCompilerFacade (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:3968:9)
+    at Financials.get (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:18611:22)
+    at getComponentDef (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:904:13)
+    at isStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:923:14)
+    at assertStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2291:25)
+    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2807:56
+    at async Promise.all (index 0)
+[2m1:52:25 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mJIT compilation failed for component class {
+  api = inject(Api);
+  auth = inject(Auth);
+  alerts = inject(Alerts);
+  editor = viewChild.required(
+    "editor",
+    ...ngDevMode ? [{ debugName: "editor" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  report = signal(
+    null,
+    ...ngDevMode ? [{ debugName: "report" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  collapsed = signal(
+    { expenses: false, monthly: true, deposits: false, history: true },
+    ...ngDevMode ? [{ debugName: "collapsed" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editing = signal(
+    false,
+    ...ngDevMode ? [{ debugName: "editing" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editId = "";
+  form = this.newForm();
+  constructor() {
+    effect(() => {
+      this.api.pid();
+      this.api.month();
+      this.load();
+    });
+  }
+  newForm() {
+    const propertyId = this.auth?.isEmployee?.() ? this.api?.pid?.() || this.api?.properties?.()[0]?.id || "" : this.api?.pid?.() ?? "";
+    return {
+      propertyId,
+      category: "Operating",
+      description: "",
+      recipient: "",
+      amount: 0,
+      isMonthly: false,
+      date: `${this.api?.month?.() ?? (/* @__PURE__ */ new Date()).toISOString().slice(0, 7)}-01`
+    };
+  }
+  toggle(section) {
+    this.collapsed.update((state) => __spreadProps(__spreadValues({}, state), { [section]: !state[section] }));
+  }
+  load() {
+    this.api.financials().subscribe({ next: (result) => this.report.set(result), error: (error) => this.showError(error) });
+  }
+  showError(error) {
+    if (error?.status === 404 && !error?.error?.message) {
+      this.api.say("API ch\u01B0a \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt. H\xE3y kh\u1EDFi \u0111\u1ED9ng l\u1EA1i backend sau khi x\xE1c nh\u1EADn database \u0111\u1EC3 \xE1p d\u1EE5ng migration.");
+      return;
+    }
+    this.api.say(this.api.errorMessage(error));
+  }
+  isHoldExpired(receipt) {
+    return !receipt.refundedAt && receipt.holdUntil < (/* @__PURE__ */ new Date()).toLocaleDateString("en-CA");
+  }
+  salesTotal() {
+    return this.report()?.expenseEntries.filter((entry) => entry.category === "Sales").reduce((sum, entry) => sum + entry.amount, 0) ?? 0;
+  }
+  categoryLabel(category) {
+    return category === "Sales" ? "Sale ph\xF2ng" : category === "Operating" ? "V\u1EADn h\xE0nh" : "Kh\xE1c";
+  }
+  add() {
+    this.editId = "";
+    this.form = this.newForm();
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  edit(entry) {
+    this.editId = entry.id;
+    this.form = {
+      propertyId: entry.propertyId ?? "",
+      category: entry.category,
+      description: entry.description,
+      recipient: entry.recipient ?? "",
+      amount: entry.amount,
+      date: entry.date,
+      isMonthly: entry.isMonthly
+    };
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  cancel() {
+    this.editor().nativeElement.close();
+    this.editing.set(false);
+  }
+  save() {
+    if (!this.form.description.trim() || !this.form.date || this.form.amount <= 0)
+      return this.api.say("Vui l\xF2ng nh\u1EADp \u0111\u1EE7 n\u1ED9i dung, ng\xE0y v\xE0 s\u1ED1 ti\u1EC1n h\u1EE3p l\u1EC7");
+    const body = __spreadProps(__spreadValues({}, this.form), { propertyId: this.form.propertyId || null, recipient: this.form.recipient.trim() || null });
+    this.api.saveExpense(body, this.editId || void 0).subscribe({
+      next: () => {
+        this.cancel();
+        this.load();
+        this.alerts.success(this.editId ? "\u0110\xE3 c\u1EADp nh\u1EADt kho\u1EA3n chi" : "\u0110\xE3 th\xEAm kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+  async remove(entry) {
+    if (!await this.alerts.confirm("X\xF3a kho\u1EA3n chi?", entry.description, "X\xF3a", true))
+      return;
+    this.api.deleteExpense(entry.id).subscribe({
+      next: () => {
+        this.load();
+        this.alerts.success("\u0110\xE3 x\xF3a kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+}
+[2m1:52:25 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR Error: The component 'Financials' needs to be compiled using the JIT compiler, but '@angular/compiler' is not available.
+
+JIT compilation is discouraged for production use-cases! Consider using AOT mode instead.
+Alternatively, the JIT compiler should be loaded by bootstrapping using '@angular/platform-browser-dynamic' or '@angular/platform-server',
+or manually provide the compiler with 'import "@angular/compiler";' before bootstrapping.
+    at getCompilerFacade (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:3968:9)
+    at Financials.get (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:18611:22)
+    at getComponentDef (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:904:13)
+    at isStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:923:14)
+    at assertStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2291:25)
+    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2807:56
+    at async Promise.all (index 0)
+[2m1:55:00 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mJIT compilation failed for component class {
+  api = inject(Api);
+  auth = inject(Auth);
+  alerts = inject(Alerts);
+  editor = viewChild.required(
+    "editor",
+    ...ngDevMode ? [{ debugName: "editor" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  report = signal(
+    null,
+    ...ngDevMode ? [{ debugName: "report" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  collapsed = signal(
+    { expenses: false, monthly: true, deposits: false, history: true },
+    ...ngDevMode ? [{ debugName: "collapsed" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editing = signal(
+    false,
+    ...ngDevMode ? [{ debugName: "editing" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editId = "";
+  form = this.newForm();
+  constructor() {
+    effect(() => {
+      this.api.pid();
+      this.api.month();
+      this.load();
+    });
+  }
+  newForm() {
+    const propertyId = this.auth?.isEmployee?.() ? this.api?.pid?.() || this.api?.properties?.()[0]?.id || "" : this.api?.pid?.() ?? "";
+    return {
+      propertyId,
+      category: "Operating",
+      description: "",
+      recipient: "",
+      amount: 0,
+      isMonthly: false,
+      date: `${this.api?.month?.() ?? (/* @__PURE__ */ new Date()).toISOString().slice(0, 7)}-01`
+    };
+  }
+  toggle(section) {
+    this.collapsed.update((state) => __spreadProps(__spreadValues({}, state), { [section]: !state[section] }));
+  }
+  load() {
+    this.api.financials().subscribe({ next: (result) => this.report.set(result), error: (error) => this.showError(error) });
+  }
+  showError(error) {
+    if (error?.status === 404 && !error?.error?.message) {
+      this.api.say("API ch\u01B0a \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt. H\xE3y kh\u1EDFi \u0111\u1ED9ng l\u1EA1i backend sau khi x\xE1c nh\u1EADn database \u0111\u1EC3 \xE1p d\u1EE5ng migration.");
+      return;
+    }
+    this.api.say(this.api.errorMessage(error));
+  }
+  isHoldExpired(receipt) {
+    return !receipt.refundedAt && receipt.holdUntil < (/* @__PURE__ */ new Date()).toLocaleDateString("en-CA");
+  }
+  salesTotal() {
+    return this.report()?.expenseEntries.filter((entry) => entry.category === "Sales").reduce((sum, entry) => sum + entry.amount, 0) ?? 0;
+  }
+  categoryLabel(category) {
+    return category === "Sales" ? "Sale ph\xF2ng" : category === "Operating" ? "V\u1EADn h\xE0nh" : "Kh\xE1c";
+  }
+  add() {
+    this.editId = "";
+    this.form = this.newForm();
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  edit(entry) {
+    this.editId = entry.id;
+    this.form = {
+      propertyId: entry.propertyId ?? "",
+      category: entry.category,
+      description: entry.description,
+      recipient: entry.recipient ?? "",
+      amount: entry.amount,
+      date: entry.date,
+      isMonthly: entry.isMonthly
+    };
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  cancel() {
+    this.editor().nativeElement.close();
+    this.editing.set(false);
+  }
+  save() {
+    if (!this.form.description.trim() || !this.form.date || this.form.amount <= 0)
+      return this.api.say("Vui l\xF2ng nh\u1EADp \u0111\u1EE7 n\u1ED9i dung, ng\xE0y v\xE0 s\u1ED1 ti\u1EC1n h\u1EE3p l\u1EC7");
+    const body = __spreadProps(__spreadValues({}, this.form), { propertyId: this.form.propertyId || null, recipient: this.form.recipient.trim() || null });
+    this.api.saveExpense(body, this.editId || void 0).subscribe({
+      next: () => {
+        this.cancel();
+        this.load();
+        this.alerts.success(this.editId ? "\u0110\xE3 c\u1EADp nh\u1EADt kho\u1EA3n chi" : "\u0110\xE3 th\xEAm kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+  async remove(entry) {
+    if (!await this.alerts.confirm("X\xF3a kho\u1EA3n chi?", entry.description, "X\xF3a", true))
+      return;
+    this.api.deleteExpense(entry.id).subscribe({
+      next: () => {
+        this.load();
+        this.alerts.success("\u0110\xE3 x\xF3a kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+}
+[2m1:55:00 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR Error: The component 'Financials' needs to be compiled using the JIT compiler, but '@angular/compiler' is not available.
+
+JIT compilation is discouraged for production use-cases! Consider using AOT mode instead.
+Alternatively, the JIT compiler should be loaded by bootstrapping using '@angular/platform-browser-dynamic' or '@angular/platform-server',
+or manually provide the compiler with 'import "@angular/compiler";' before bootstrapping.
+    at getCompilerFacade (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:3968:9)
+    at Financials.get (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:18611:22)
+    at getComponentDef (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:904:13)
+    at isStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:923:14)
+    at assertStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2291:25)
+    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2807:56
+    at async Promise.all (index 0)
+[2m1:55:01 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mJIT compilation failed for component class {
+  api = inject(Api);
+  auth = inject(Auth);
+  alerts = inject(Alerts);
+  editor = viewChild.required(
+    "editor",
+    ...ngDevMode ? [{ debugName: "editor" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  report = signal(
+    null,
+    ...ngDevMode ? [{ debugName: "report" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  collapsed = signal(
+    { expenses: false, monthly: true, deposits: false, history: true },
+    ...ngDevMode ? [{ debugName: "collapsed" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editing = signal(
+    false,
+    ...ngDevMode ? [{ debugName: "editing" }] : (
+      /* istanbul ignore next */
+      []
+    )
+  );
+  editId = "";
+  form = this.newForm();
+  constructor() {
+    effect(() => {
+      this.api.pid();
+      this.api.month();
+      this.load();
+    });
+  }
+  newForm() {
+    const propertyId = this.auth?.isEmployee?.() ? this.api?.pid?.() || this.api?.properties?.()[0]?.id || "" : this.api?.pid?.() ?? "";
+    return {
+      propertyId,
+      category: "Operating",
+      description: "",
+      recipient: "",
+      amount: 0,
+      isMonthly: false,
+      date: `${this.api?.month?.() ?? (/* @__PURE__ */ new Date()).toISOString().slice(0, 7)}-01`
+    };
+  }
+  toggle(section) {
+    this.collapsed.update((state) => __spreadProps(__spreadValues({}, state), { [section]: !state[section] }));
+  }
+  load() {
+    this.api.financials().subscribe({ next: (result) => this.report.set(result), error: (error) => this.showError(error) });
+  }
+  showError(error) {
+    if (error?.status === 404 && !error?.error?.message) {
+      this.api.say("API ch\u01B0a \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt. H\xE3y kh\u1EDFi \u0111\u1ED9ng l\u1EA1i backend sau khi x\xE1c nh\u1EADn database \u0111\u1EC3 \xE1p d\u1EE5ng migration.");
+      return;
+    }
+    this.api.say(this.api.errorMessage(error));
+  }
+  isHoldExpired(receipt) {
+    return !receipt.refundedAt && receipt.holdUntil < (/* @__PURE__ */ new Date()).toLocaleDateString("en-CA");
+  }
+  salesTotal() {
+    return this.report()?.expenseEntries.filter((entry) => entry.category === "Sales").reduce((sum, entry) => sum + entry.amount, 0) ?? 0;
+  }
+  categoryLabel(category) {
+    return category === "Sales" ? "Sale ph\xF2ng" : category === "Operating" ? "V\u1EADn h\xE0nh" : "Kh\xE1c";
+  }
+  add() {
+    this.editId = "";
+    this.form = this.newForm();
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  edit(entry) {
+    this.editId = entry.id;
+    this.form = {
+      propertyId: entry.propertyId ?? "",
+      category: entry.category,
+      description: entry.description,
+      recipient: entry.recipient ?? "",
+      amount: entry.amount,
+      date: entry.date,
+      isMonthly: entry.isMonthly
+    };
+    this.editing.set(true);
+    this.editor().nativeElement.showModal();
+  }
+  cancel() {
+    this.editor().nativeElement.close();
+    this.editing.set(false);
+  }
+  save() {
+    if (!this.form.description.trim() || !this.form.date || this.form.amount <= 0)
+      return this.api.say("Vui l\xF2ng nh\u1EADp \u0111\u1EE7 n\u1ED9i dung, ng\xE0y v\xE0 s\u1ED1 ti\u1EC1n h\u1EE3p l\u1EC7");
+    const body = __spreadProps(__spreadValues({}, this.form), { propertyId: this.form.propertyId || null, recipient: this.form.recipient.trim() || null });
+    this.api.saveExpense(body, this.editId || void 0).subscribe({
+      next: () => {
+        this.cancel();
+        this.load();
+        this.alerts.success(this.editId ? "\u0110\xE3 c\u1EADp nh\u1EADt kho\u1EA3n chi" : "\u0110\xE3 th\xEAm kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+  async remove(entry) {
+    if (!await this.alerts.confirm("X\xF3a kho\u1EA3n chi?", entry.description, "X\xF3a", true))
+      return;
+    this.api.deleteExpense(entry.id).subscribe({
+      next: () => {
+        this.load();
+        this.alerts.success("\u0110\xE3 x\xF3a kho\u1EA3n chi");
+      },
+      error: (error) => this.showError(error)
+    });
+  }
+}
+[2m1:55:01 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR Error: The component 'Financials' needs to be compiled using the JIT compiler, but '@angular/compiler' is not available.
+
+JIT compilation is discouraged for production use-cases! Consider using AOT mode instead.
+Alternatively, the JIT compiler should be loaded by bootstrapping using '@angular/platform-browser-dynamic' or '@angular/platform-server',
+or manually provide the compiler with 'import "@angular/compiler";' before bootstrapping.
+    at getCompilerFacade (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:3968:9)
+    at Financials.get (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:18611:22)
+    at getComponentDef (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:904:13)
+    at isStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:923:14)
+    at assertStandalone (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2291:25)
+    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/@angular_router.js?v=e64b62b7:2807:56
+    at async Promise.all (index 0)
+[2m2:06:47 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/invoices?month=2026-10: 0 undefined
+[39m
+[2m2:06:47 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":0,"statusText":"Unknown Error","url":"http://localhost:5080/api/invoices?month=2026-10","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/invoices?month=2026-10: 0 undefined","error":{"name":"TypeError","message":"Failed to fetch","stack":"TypeError: Failed to fetch\n    at FetchBackend.fetchImpl (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:647:90)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:66\n    at NoopNgZone.runOutsideAngular (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:2712:10)\n    at FetchBackend.doRequest (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:37)\n    at Observable._subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:669:9)\n    at Observable._trySubscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:665:16)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:659:112\n    at errorContext (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:465:9)\n    at Observable.subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:657:3)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:3101:21"}}
+[2m2:39:51 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/invoices?month=2026-10: 403 Forbidden
+[39m
+[2m2:39:51 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":403,"statusText":"Forbidden","url":"http://localhost:5080/api/invoices?month=2026-10","ok":false,"redirected":false,"responseType":"cors","name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/invoices?month=2026-10: 403 Forbidden","error":{"message":"Bạn không được cấp quyền truy cập trang này"}}
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'of'.[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/rooms.ts:213:83:
+[37m      213 │ ...is.auth.canAccessPage('invoices') ? this.api.invoices() : [32mof[37m([]);
+          ╵                                                              [32m~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS7006: Parameter 'invoice' implicitly has an 'any' type.[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/rooms.ts:215:94:
+[37m      215 │ ...t(new Set(data.invoices.map([32minvoice[37m => invoice.roomId))); this...
+          ╵                                [32m~~~~~~~[0m
+
+
+[2m2:47:56 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/invoices?month=2026-10: 403 Forbidden
+[39m
+[2m2:47:56 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":403,"statusText":"Forbidden","url":"http://localhost:5080/api/invoices?month=2026-10","ok":false,"redirected":false,"responseType":"cors","name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/invoices?month=2026-10: 403 Forbidden","error":{"message":"Bạn không được cấp quyền truy cập trang này"}}
+[2m2:48:16 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/invoices?month=2026-10: 403 Forbidden
+[39m
+[2m2:48:16 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":403,"statusText":"Forbidden","url":"http://localhost:5080/api/invoices?month=2026-10","ok":false,"redirected":false,"responseType":"cors","name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/invoices?month=2026-10: 403 Forbidden","error":{"message":"Bạn không được cấp quyền truy cập trang này"}}
+[2m2:48:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/invoices?month=2026-10: 403 Forbidden
+[39m
+[2m2:48:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":403,"statusText":"Forbidden","url":"http://localhost:5080/api/invoices?month=2026-10","ok":false,"redirected":false,"responseType":"cors","name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/invoices?month=2026-10: 403 Forbidden","error":{"message":"Bạn không được cấp quyền truy cập trang này"}}
+[2m2:48:54 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/invoices?month=2026-10: 403 Forbidden
+[39m
+[2m2:48:54 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":403,"statusText":"Forbidden","url":"http://localhost:5080/api/invoices?month=2026-10","ok":false,"redirected":false,"responseType":"cors","name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/invoices?month=2026-10: 403 Forbidden","error":{"message":"Bạn không được cấp quyền truy cập trang này"}}
+[2m2:58:19 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./pages/repairs"[0m
+
+    src/app/app.routes.ts:17:90:
+[37m      17 │ ...Component: () => import([32m'./pages/repairs'[37m).then(m => m.Repairs) },
+         ╵                            [32m~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './pages/repairs' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/app.routes.ts:17:90:
+[37m      17 │ ...Component: () => import([32m'./pages/repairs'[37m).then(m => m.Repairs) },
+         ╵                            [32m~~~~~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[2m3:42:23 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[2m4:10:46 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR TypeError: Failed to fetch dynamically imported module: http://localhost:4200/chunk-OCDWOOI7.js
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'busy' does not exist on type 'Financials'.[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:100:50:
+[37m      100 │ ...button class="s" [disabled]="[32mbusy[37m()" (click)="removeDepositRec...
+          ╵                                 [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'busy' does not exist on type 'Financials'.[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/financials.ts:100:50:
+[37m      100 │ ...button class="s" [disabled]="[32mbusy[37m()" (click)="removeDepositRec...
+          ╵                                 [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[2m3:59:20 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m4:02:42 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m4:03:25 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m4:03:27 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m4:03:30 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m4:03:32 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m4:03:36 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m4:03:38 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m4:04:40 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[2m4:28:39 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[2m5:24:51 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[2m5:28:04 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/dashboard?month=2026-10&propertyId=28bbf723-b252-4deb-b47a-3a1dd9dc5e16: 0 undefined
+[39m
+[2m5:28:04 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":0,"statusText":"Unknown Error","url":"http://localhost:5080/api/dashboard?month=2026-10&propertyId=28bbf723-b252-4deb-b47a-3a1dd9dc5e16","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/dashboard?month=2026-10&propertyId=28bbf723-b252-4deb-b47a-3a1dd9dc5e16: 0 undefined","error":{"name":"TypeError","message":"Failed to fetch","stack":"TypeError: Failed to fetch\n    at FetchBackend.fetchImpl (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:647:90)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:66\n    at NoopNgZone.runOutsideAngular (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:2712:10)\n    at FetchBackend.doRequest (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:37)\n    at Observable._subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:669:9)\n    at Observable._trySubscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:665:16)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:659:112\n    at errorContext (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:465:9)\n    at Observable.subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:657:3)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:3101:21"}}
+[2m5:28:04 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/invoices?month=2026-10&propertyId=28bbf723-b252-4deb-b47a-3a1dd9dc5e16: 0 undefined
+[39m
+[2m5:28:04 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":0,"statusText":"Unknown Error","url":"http://localhost:5080/api/invoices?month=2026-10&propertyId=28bbf723-b252-4deb-b47a-3a1dd9dc5e16","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/invoices?month=2026-10&propertyId=28bbf723-b252-4deb-b47a-3a1dd9dc5e16: 0 undefined","error":{"name":"TypeError","message":"Failed to fetch","stack":"TypeError: Failed to fetch\n    at FetchBackend.fetchImpl (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:647:90)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:66\n    at NoopNgZone.runOutsideAngular (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:2712:10)\n    at FetchBackend.doRequest (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:37)\n    at Observable._subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:669:9)\n    at Observable._trySubscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:665:16)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:659:112\n    at errorContext (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:465:9)\n    at Observable.subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:657:3)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:3101:21"}}
+[2m5:28:07 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/dashboard?month=2026-10&propertyId=55bdbf3d-a62b-4746-af9a-b9abe87f3c74: 0 undefined
+[39m
+[2m5:28:07 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":0,"statusText":"Unknown Error","url":"http://localhost:5080/api/dashboard?month=2026-10&propertyId=55bdbf3d-a62b-4746-af9a-b9abe87f3c74","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/dashboard?month=2026-10&propertyId=55bdbf3d-a62b-4746-af9a-b9abe87f3c74: 0 undefined","error":{"name":"TypeError","message":"Failed to fetch","stack":"TypeError: Failed to fetch\n    at FetchBackend.fetchImpl (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:647:90)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:66\n    at NoopNgZone.runOutsideAngular (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:2712:10)\n    at FetchBackend.doRequest (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:37)\n    at Observable._subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:669:9)\n    at Observable._trySubscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:665:16)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:659:112\n    at errorContext (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:465:9)\n    at Observable.subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:657:3)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:3101:21"}}
+[2m5:28:07 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/invoices?month=2026-10&propertyId=55bdbf3d-a62b-4746-af9a-b9abe87f3c74: 0 undefined
+[39m
+[2m5:28:07 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":0,"statusText":"Unknown Error","url":"http://localhost:5080/api/invoices?month=2026-10&propertyId=55bdbf3d-a62b-4746-af9a-b9abe87f3c74","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/invoices?month=2026-10&propertyId=55bdbf3d-a62b-4746-af9a-b9abe87f3c74: 0 undefined","error":{"name":"TypeError","message":"Failed to fetch","stack":"TypeError: Failed to fetch\n    at FetchBackend.fetchImpl (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:647:90)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:66\n    at NoopNgZone.runOutsideAngular (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:2712:10)\n    at FetchBackend.doRequest (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:37)\n    at Observable._subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:669:9)\n    at Observable._trySubscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:665:16)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:659:112\n    at errorContext (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:465:9)\n    at Observable.subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:657:3)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:3101:21"}}
+[2m5:28:16 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/dashboard?month=2026-10: 0 undefined
+[39m
+[2m5:28:16 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":0,"statusText":"Unknown Error","url":"http://localhost:5080/api/dashboard?month=2026-10","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/dashboard?month=2026-10: 0 undefined","error":{"name":"TypeError","message":"Failed to fetch","stack":"TypeError: Failed to fetch\n    at FetchBackend.fetchImpl (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:647:90)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:66\n    at NoopNgZone.runOutsideAngular (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:2712:10)\n    at FetchBackend.doRequest (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:37)\n    at Observable._subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:669:9)\n    at Observable._trySubscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:665:16)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:659:112\n    at errorContext (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:465:9)\n    at Observable.subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:657:3)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:3101:21"}}
+[2m5:28:16 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/invoices?month=2026-10: 0 undefined
+[39m
+[2m5:28:16 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":0,"statusText":"Unknown Error","url":"http://localhost:5080/api/invoices?month=2026-10","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/invoices?month=2026-10: 0 undefined","error":{"name":"TypeError","message":"Failed to fetch","stack":"TypeError: Failed to fetch\n    at FetchBackend.fetchImpl (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:647:90)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:66\n    at NoopNgZone.runOutsideAngular (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:2712:10)\n    at FetchBackend.doRequest (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:37)\n    at Observable._subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:669:9)\n    at Observable._trySubscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:665:16)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:659:112\n    at errorContext (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:465:9)\n    at Observable.subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:657:3)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:3101:21"}}
+[2m5:28:18 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/dashboard?month=2026-10&propertyId=28bbf723-b252-4deb-b47a-3a1dd9dc5e16: 0 undefined
+[39m
+[2m5:28:18 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":0,"statusText":"Unknown Error","url":"http://localhost:5080/api/dashboard?month=2026-10&propertyId=28bbf723-b252-4deb-b47a-3a1dd9dc5e16","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/dashboard?month=2026-10&propertyId=28bbf723-b252-4deb-b47a-3a1dd9dc5e16: 0 undefined","error":{"name":"TypeError","message":"Failed to fetch","stack":"TypeError: Failed to fetch\n    at FetchBackend.fetchImpl (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:647:90)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:66\n    at NoopNgZone.runOutsideAngular (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:2712:10)\n    at FetchBackend.doRequest (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:37)\n    at Observable._subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:669:9)\n    at Observable._trySubscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:665:16)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:659:112\n    at errorContext (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:465:9)\n    at Observable.subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:657:3)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:3101:21"}}
+[2m5:28:18 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/invoices?month=2026-10&propertyId=28bbf723-b252-4deb-b47a-3a1dd9dc5e16: 0 undefined
+[39m
+[2m5:28:18 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":0,"statusText":"Unknown Error","url":"http://localhost:5080/api/invoices?month=2026-10&propertyId=28bbf723-b252-4deb-b47a-3a1dd9dc5e16","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/invoices?month=2026-10&propertyId=28bbf723-b252-4deb-b47a-3a1dd9dc5e16: 0 undefined","error":{"name":"TypeError","message":"Failed to fetch","stack":"TypeError: Failed to fetch\n    at FetchBackend.fetchImpl (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:647:90)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:66\n    at NoopNgZone.runOutsideAngular (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:2712:10)\n    at FetchBackend.doRequest (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:37)\n    at Observable._subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:669:9)\n    at Observable._trySubscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:665:16)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:659:112\n    at errorContext (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:465:9)\n    at Observable.subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:657:3)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:3101:21"}}
+[2m5:30:37 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSweetAlert2: Target parameter is not valid, defaulting to "body"
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[2m5:54:25 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/invoices?month=2026-10: 0 undefined
+[39m
+[2m5:54:25 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":0,"statusText":"Unknown Error","url":"http://localhost:5080/api/invoices?month=2026-10","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/invoices?month=2026-10: 0 undefined","error":{"name":"TypeError","message":"Failed to fetch","stack":"TypeError: Failed to fetch\n    at FetchBackend.fetchImpl (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:647:90)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:66\n    at NoopNgZone.runOutsideAngular (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/core-Cv98Z2sf.js?v=e64b62b7:2712:10)\n    at FetchBackend.doRequest (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:684:37)\n    at Observable._subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/http-Bs2196rl.js?v=e64b62b7:669:9)\n    at Observable._trySubscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:665:16)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:659:112\n    at errorContext (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:465:9)\n    at Observable.subscribe (http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:657:3)\n    at http://localhost:4200/@fs/C:/Learning/nhatro/frontend/.angular/cache/22.2.3/nhatro-web/vite/deps/esm5-DYNb5pjm.js?v=e64b62b7:3101:21"}}
+[2m9:05:58 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mHttpErrorResponse[22m: Http failure response for http://localhost:5080/api/invoices?month=2026-10: 500 Internal Server Error
+[39m
+[2m9:05:58 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mERROR {"headers":{"headers":{},"normalizedNames":{},"lazyUpdate":null},"status":500,"statusText":"Internal Server Error","url":"http://localhost:5080/api/invoices?month=2026-10","ok":false,"redirected":false,"responseType":"cors","name":"HttpErrorResponse","message":"Http failure response for http://localhost:5080/api/invoices?month=2026-10: 500 Internal Server Error","error":"Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)\r\n ---> System.ComponentModel.Win32Exception (53): The network path was not found.\r\n   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)\r\n   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)\r\n   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, TimeoutTimer timeout, SqlConnectionString connectionOptions, Boolean withFailover)\r\n   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, TimeoutTimer timeout, Boolean withFailover)\r\n   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)\r\n   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)\r\n   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, IDbConnectionPool pool, Func`3 accessTokenCallback)\r\n   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionPoolGroupProviderInfo poolGroupProviderInfo, IDbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)\r\n   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(IDbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)\r\n   at Microsoft.Data.SqlClient.ConnectionPool.WaitHandleDbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)\r\n   at Microsoft.Data.SqlClient.ConnectionPool.WaitHandleDbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)\r\n   at Microsoft.Data.SqlClient.ConnectionPool.WaitHandleDbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)\r\n   at Microsoft.Data.SqlClient.ConnectionPool.WaitHandleDbConnectionPool.WaitForPendingOpen()\r\n--- End of stack trace from previous location ---\r\n   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)\r\n   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)\r\n   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)\r\n   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)\r\n   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)\r\n   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)\r\n   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()\r\n   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)\r\n   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)\r\n   at Program.<>c.<<<Main>$>b__0_2>d.MoveNext() in C:\\Learning\\nhatro\\backend\\src\\NhaTro.Api\\Program.cs:line 28\r\n--- End of stack trace from previous location ---\r\n   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()\r\n   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()\r\n   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.AuthenticateAsync()\r\n   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)\r\n   at Microsoft.AspNetCore.Authentication.AuthenticationServiceImpl.AuthenticateAsync(HttpContext context, String scheme)\r\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\r\n   at NhaTro.Api.ErrorHandlingMiddleware.Invoke(HttpContext ctx) in C:\\Learning\\nhatro\\backend\\src\\NhaTro.Api\\ErrorHandlingMiddleware.cs:line 11\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)\r\nClientConnectionId:00000000-0000-0000-0000-000000000000\r\nError Number:53,State:0,Class:20\r\n\r\nHEADERS\r\n=======\r\nAccept: application/json, text/plain, */*\r\nConnection: keep-alive\r\nHost: localhost:5080\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0\r\nAccept-Encoding: gzip, deflate, br, zstd\r\nAccept-Language: en-US,en;q=0.9\r\nAuthorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJuaGF0cm8td2ViIiwiaXNzIjoibmhhdHJvLWFwaSIsImV4cCI6MTc5MzA1NDQyMSwic3ViIjoiNzlmMzZjNmItMGQ2ZS00MGU1LWEzZjEtNTk3M2ZjODU3MzhhIiwicGhvbmVfbnVtYmVyIjoiMDk0OTY2NTE4OCIsImlhdCI6MTc5MzAxMTIyMiwibmJmIjoxNzkzMDExMjIyfQ.lpgLVHYvJF1qzNE2sl4yvaS6fngH2TN0c-alfAr3Hs8\r\nOrigin: http://localhost:4200\r\nReferer: http://localhost:4200/\r\nsec-ch-ua-platform: \"Windows\"\r\nsec-ch-ua: \"Microsoft Edge\";v=\"155\", \"Chromium\";v=\"155\", \"Not(A:Brand\";v=\"24\"\r\nsec-ch-ua-mobile: ?0\r\nSec-Fetch-Site: same-site\r\nSec-Fetch-Mode: cors\r\nSec-Fetch-Dest: empty\r\n"}
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: Icon is not used within the template of Repairs[0m [1m[35m[plugin angular-compiler][0m
+
+    C:/Learning/nhatro/frontend/src/app/pages/repairs.ts:10:50:
+[37m      10 │   selector: 'app-repairs', imports: [FormsModule, [32mIcon[37m],
+         ╵                                                   [32m~~~~[0m
+
+

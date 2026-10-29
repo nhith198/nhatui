@@ -1,0 +1,66 @@
+parameters:
+- name: stageName
+  type: string
+- name: dependsOn
+  type: string
+- name: condition
+  type: string
+- name: environment
+  type: string
+- name: variableGroup
+  type: string
+- name: serviceConnection
+  type: string
+- name: webAppName
+  type: string
+- name: storageAccount
+  type: string
+
+stages:
+- stage: ${{ parameters.stageName }}
+  dependsOn: ${{ parameters.dependsOn }}
+  condition: ${{ parameters.condition }}
+  variables:
+  - group: ${{ parameters.variableGroup }}   # SqlConnectionString (secret), apiUrl
+  jobs:
+  - deployment: Deploy
+    displayName: Deploy to ${{ parameters.stageName }}
+    environment: ${{ parameters.environment }}
+    strategy:
+      runOnce:
+        deploy:
+          steps:
+          # 1. Database: apply pending EF migrations (agent IP must be allowed by the Azure SQL firewall)
+          - bash: |
+              if [ -f "$(Pipeline.Workspace)/db/efbundle" ]; then
+                chmod +x "$(Pipeline.Workspace)/db/efbundle"
+                "$(Pipeline.Workspace)/db/efbundle" --connection "$SQL_CONNECTION"
+              else
+                echo "No migrations bundle in this build - skipping."
+              fi
+            displayName: Apply database migrations
+            env:
+              SQL_CONNECTION: $(SqlConnectionString)
+
+          # 2. API -> Azure App Service (Linux)
+          - task: AzureWebApp@1
+            displayName: Deploy API
+            inputs:
+              azureSubscription: ${{ parameters.serviceConnection }}
+              appType: webAppLinux
+              appName: ${{ parameters.webAppName }}
+              package: $(Pipeline.Workspace)/api
+
+          # 3. Angular -> Azure Storage static website; config.json points the SPA at this environment's API
+          - task: AzureCLI@2
+            displayName: Deploy web
+            inputs:
+              azureSubscription: ${{ parameters.serviceConnection }}
+              scriptType: bash
+              scriptLocation: inlineScript
+              inlineScript: |
+                echo "{\"apiUrl\": \"$(apiUrl)\"}" > "$(Pipeline.Workspace)/web/config.json"
+                az storage blob service-properties update --account-name ${{ parameters.storageAccount }} \
+                  --static-website --index-document index.html --404-document index.html --auth-mode login
+                az storage blob upload-batch --account-name ${{ parameters.storageAccount }} \
+                  -s "$(Pipeline.Workspace)/web" -d '$web' --overwrite --auth-mode login
